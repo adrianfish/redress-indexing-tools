@@ -1,0 +1,6 @@
+http://eprints.ecs.soton.ac.uk/7286/01/RoughGuideToGridSecurityV1_1a.pdf
+http://redress.lancs.ac.uk/resources/Phil%20Couch/Information%20Management%20Strategies%20for%20Computational%20Chemistry/Information-Management-Strategies-for-Computational-Chemistry.html
+http://redress.lancs.ac.uk//resources/Khurshid Ahmad/The quality of social interaction/The-quality-of-social-interaction.html
+http://www.semanticgrid.org/brief/
+http://tyne.dl.ac.uk/ReDRESS/CodeDev/codedev_doc
+http://www.ukhec.ac.uk/publications/guides/fortran95.pdf

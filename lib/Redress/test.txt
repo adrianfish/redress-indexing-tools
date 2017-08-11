@@ -1,0 +1,213 @@
+Using the Sakai Collaborative Toolkit in eScience Applications
+Charles Severance (csev@umich.edu) et al.
+
+Abstract
+
+The Sakai Project (www.sakaiproject.org) is developing a collaborative environment that provides capabilities that span teaching and learning as well as eScience applications.  By exploiting the significant requirements overlap in the collaboration space between these areas, the Sakai community can harness significant resources to develop an increasingly rich set of collaborative tools.  While collaboration is a significant element of many eScience applications there are many other important elements including portals, data repositories, compute resources, special software, data sources, desktop applications, and content management/e-publication.  The successful eScience applications will find ways to harness all of these elements to advance their science in the most effective manner.   It is critical to realize that there is not a single software product that can meet the requirements for a rich eScience effort.  Realizing that multiple elements must be integrated together for best effect leads us to focus on understanding the nature of integration and working to improve the cross-application integration.  This leads us to not to drive to a single toolkit (like Sakai or Globus) but instead to a mega-toolkit containing well-integrated applications.  When considering a technology for use, perhaps the most important aspect of that technology is how well that technology integrates with other technologies.
+
+Introduction
+
+Project teams trying to solve eScience problems are often very similar to the blind men trying to describe the elephant.  Depending on where the projects team first begins to attack their particular problem often leads the team to think that that they understand the "whole" eScience problem space based on their initial encounter or the first type of technology picked to solve the problem.  Often eScience applications would find use of the following technologies:
+
+A Grid system like the Globus Toolkit [www.globus.org].  Globus provides mechanisms to harness distributed resources (typically compute and data) using global identity credentials that work across the entire Grid.
+
+A data repository system such as Storage Resource Broker (SRB) or the Fedora Digital Library [Fedora].  This allows the long-term storage and retrieval of data and metadata.   This repository can be used both for basic storage, retrieval, and archive of data - but additionally is often used to support the publication or e-publication activity of the field.
+
+A collaborative system such as Sakai [www.sakaiproject.org].  Sakai allows people to interact and work together collaboratively.  Groups can dynamically form.  All the collaborative data in Sakai is maintained and can be archived to associate the collaborative activity along with the results of any compute or experimental data associated with a particular research effort.
+
+A portal system such as Gridphere or uPortal.  Portals which support standards such as JSR-168[ref] or WSRP[ref] provide an excellent mechanism to bring together the user interfaces from many disparate resources into a single "portal" which makes them easy to find for the community.
+
+Knowledge building tools/software such as Data to Knowledge (D2K) or Kepler [ref].  These allows scientific workflows to be produced which can be used to orchestrate scientific software to allow users to focus on the high level decisions regarding which efforts will likely yield the best results run and working with the results of the jobs instead of manually executing jobs by hand.
+
+Large Data Sources such as the National Virtual Observatory [ref].  Often these data sources represent very specialized equipment that gathers the data using advanced technology.  Once gathered, the data is made available to the eScience efforts.
+
+
+Many eScience projects have relatively small staffs and short timelines that lead them to ignoring the larger potential scope of their domain.
+
+
+
+There are a number of important cross cutting aspects like - global identity and global access control are also an important part of any cross-application integration. 
+
+The Globus Toolkit is commonly used to provide this cross-application identity and cross-application security
+
+Sakai Overview
+
+The Sakai Project is a community source project developing a collaborative toolkit used both for teaching and learning and ad hoc collaboration.  By focusing significant resources on building core collaborative capabilities usable in any collaborative domain.
+
+
+
+To solve an application in a particular domain, one takes the core elements provided by Sakai and then adds capabilities unique to the domain of the application.
+
+Sakai core capabilities include:
+
+	Announcements  
+Chat Room 
+Threaded Discussion      
+Drop Box
+Email Archive 
+Message Of The Day      
+News/RSS
+Preferences 
+Presentation Tool    
+Resources     
+Schedule
+Web Content   
+Worksite Setup 
+WebDAV		
+The Sakai community is actively developing new tools to extend the core collaborative toolset.    These tools are not part of the Sakai 2.0 release but are under active development by researchers developing collaborative Sakai tools at Lancaster and Cambridge Universities.
+
+	Wiki based on Radeox
+Blog
+Shared Display
+Shared Whiteboard
+Multicast Audio
+Multicast Video		
+To build an eScience collaborative environment, specialized tools are built based on the needs of the scientists and combined with the Sakai core tool to produce the collaborative environment.  In the NEESGrid eScience application, a tool was developed which could display a number of data and video channels simultaneously allowing scrubbing along a timeline so that earthquake engineers could relate what was going on in the video to the sensor readings.
+
+
+
+
+Sakai as a collaborative environment can be useful to an eScience collaboration well before the first data repository or experimental data source is on-line.  Some may argue that a Sakai site is the first part of an eScience solution that should be deployed.  Sakai is an excellent tool for planning the development and deployment of the remaining elements of the eScience solution.  Because it is very simple to set up a rich collaborative environment using Sakai, installing a production instance of Sakai is a good "first milestone" to be accomplished in the first few months of any eScience effort.
+
+Sakai can function as a standalone system providing the human-to-human communication technologies, and the coordination and socialization of the (often widely distributed) team responsible for building the eScience application.
+
+Once the other elements of the eScience application come on line, Sakai will need to be integrated into the overall Project portal just like any other element of the eScience solution.
+
+
+Sakai Architecture
+
+Sakai is designed to specifically support tools that need to make user of collaborative services.   Sakai's architecture is more complex and more constraining that developing a simple Servlet or JSR-168 Portlet.  There are a number of reasons that Sakai has its own framework:
+
+A Sakai installation must be dynamically configurable - with 20+ tools running in Sakai, it is important that a problem in one tool is not allowed to affect the proper function of any other portion of the system.   Any tool can be added or removed without harming the system
+Even though Sakai is assembled from tools that are independently developed it must function smoothly with the natural feel of a single application.  Sakai provides a style guide and a set of presentation widgets to help keep Sakai tools looking consistent.
+Each Sakai tool must support several presentation technologies including HTML, JSR-168, and WSRP under control of the Sakai framework.
+Sakai demands that each capability (Chat, Discussion, etc) provide a published API to hide the data model and implementation issues as well as provides the ability to do all Sakai functions using Web services in addition to the Sakai GUI.
+Sakai tools must be production ready and perform well at scale.  There are production installations of Sakai that must support 3000+ simultaneous users every day.
+
+While these requirements initially may seem onerous to application developers used to writing simple Servlets, there are a number of services that Sakai provides to its tools through standard and published APIs
+
+A rich set of administrative tools allowing the user to configure their environment
+User identity and directory services with flexible plug-in mechanisms allowing easy integration of technologies such as Kerberos, LDAP, X.509, Globus, etc.
+A rich and flexible authorization system that supports roles and fine-grained access control that is easily used by Sakai tools.
+An event delivery mechanism that allows one tool to subscribe to an event channel and receive asynchronous notification when another user takes some action.  There is support for the delivery of these events right out to the browser using XHtmlRequest (Ajax-style) technology.
+Support for operating in a clustered application server environment to support high-performance deployments.
+A set of standard APIs (50) to access framework and application services.
+
+For a developer who truly wants to build a powerful collaborative application, Sakai is an ideal framework for the development and deployment of such a tool.  However Sakai is not appropriate for the implementation of every tool.
+
+There are situations where JSR-168 and/or WSRP are far simpler and more appropriate approaches to tool development.  Sakai does not support JSR-168 portlets or provide a WSRP Consumer capability.  Portals are far better suited to supporting JSR-168 and WSRP Consumer than Sakai.  
+
+Because of this, it is very important that Sakai integrate closely with Portals. 
+
+Portal Architecture
+
+Sakai is focused on people and groups collaborating.  Portals are focused on assembling a number of relatively simple elements to create a single user interface or one stop shopping for capabilities.  
+
+In the portal display below, the tabs across the top are different major functions that are available to the portal.  In a typical portal, all users see roughly the same information presented.  This information is generally organized to best suit the needs of the science effort, organization providing the portal, or the resource which the portal represents.
+
+
+Portals are constructed of software elements called portlets.  The standards for portals are as follows:
+
+JSR-168 is a standard for developing Java portlets that run "within" the portal and perform some function.
+
+WSRP is a standard allowing a portlet that is running on a system other than the portal system to be accessed and included in the portal by transferring the markup and user requests across web services. 
+
+WSRP has two elements.  The WSRP Consumer is the component that runs in the portal and requests HTML fragments from the remote portlet.  The WSRP Producer responds to the requests from the consumer and returns fragments to the consumer in compliance with the WSRP protocol.  As long as the remote portlet and WSRP Producer meet the requirements of the WSRP protocol, they can be written in any language.
+
+There are a number of different patterns for portlet development in a portal and in particular in an eScience portal.
+
+The four common portlet implementation patterns are as follows
+
+Self contained, completely standard JSR-168 portlet that runs completely in the portal.   Since the JSR-168 standard is rather limiting there are not many portlets in this category that are particularly interesting to eScience.
+
+JSR-168 portlets run completely in the Portal and have local business logic and data persistency.  There are a number of interesting portlets of this type.  The portlets that allow you to administer the portal fall into this category.
+
+As the portlet writer starts to solve increasingly complex problems such as grid batch job submission and tracking or repository searching, the Portlet begins to interact with some remote facility through Grid or web services.  The JSR-168 portlet is a relatively simple presentation layer with nearly all complex business logic and/or persistence in the remote facility.
+
+If the remote facility supports WSRP, then even the generation of the HTML markup is done remotely.  This has the advantage that the remote facility has full control over its application and solves the problem of distributing JSR 168 portlets to all of the portals for installation.
+
+As portals evolve (particularly uPortal 3.0) it is possible to use WSRP by writing a JSR-168 portlet of the second type and allowing uPortal 3.0 to automatically function as a WSRP producer for that JSR-168 portlet.    If the portlet can be written in Java, this approach is generally simpler than taking the full responsibility of writing a WSRP Producer.
+
+The uPortal 3.0 effort is a complete redesign from uPortal 2.0 with support for JSR-168, WSRP Consumer, and WSRP Producer built into the core of the portal.   Because WSRP is a standard, uPortal 3.0's WSRP producer can work with any WSRP compliant portal's WSRP consumer.
+
+This pattern is an excellent approach to solving the multi-technology approach to eScience described in the introduction of this paper.  Each of the major elements of the eScience solution (Compute, Repository, etc) can separately evolve its own JSR-168 portal, writing specialized JSR-168 portlets for their needs.  Once the capabilities are matured, the portlets can be "brought into" the project portal using web services.
+
+This approach allows different parts of the eScience project to progress at their own pace but not require any major re-work as the major elements of the project begin to mature and come together to form the overall project portal.
+
+Integrating Sakai with Portals
+
+Sakai is capable of functioning completely as a standalone application with its own internal rendering capability for HTML.  This section will describe the approach for integrating Sakai into an eScience project-wide portal using WSRP and JSR-168.
+
+Because Sakai is organized around people and the groups that each person belongs to, each user "sees" a different view of the Sakai "portal" based on their rights and permissions within Sakai.    This is challenging for many portals.  Portals often support "personalization" where users choose or arrange from a pre-defined set of tabs and portlets - but do not support a situation where a single application working within the portal is allowed to dynamically reconfigure the overall portal interface content based on each user and their identity.
+
+Currently the best way to integrate Sakai into a JSR-168 portlet is to use the Sakai JSR-168 portlet.  This portlet uses the implementation approach of using web services and providing a relatively thin presentation layer in the portal.  All of Sakai appears in the portal at some location determined by the portal administrator.  All of Sakai simply appears under one of the tabs of the portal.
+
+
+
+This way the users simply go to the project portal, navigate between the various portlets the Sakai tab and never really are aware that the user interfaces they are using are scattered all over the place.  Almost a "Grid" of user interfaces.
+
+The Sakai JSR-168 portlet is completely standard JSR-168 and has been tested in all of the current popular JSR-168 portal environments.
+
+
+When the Sakai JSR-168 Portlet starts, it puts up a login screen or auto-logs in depending on the portlet's configuration options.  The login (1) is done using Sakai's web services. Once the Sakai session is established, the Sakai site list for the current user is retrieved (2) and the portlet is displayed (3) giving the user a choice as to which Sakai site to select.  As a site is selected, the portlet generates an appropriate iFrame with a URL to display the Sakai site (4).  Because the Sakai session was established using web services, any Sakai login processing is completely bypassed effectively allowing the portal login and authentication to act as the login and authentication for the Sakai instance.
+
+If the Sakai instance and the portal instance agree, it is possible for the Sakai JSR-168 portlet to automatically create and populate user directory entries within Sakai.  
+
+The Sakai JSR-168 portlet does not diminish the ability to use Sakai directly through the standard Sakai HTML user interface.
+
+The Sakai 2.1 release also includes a WSRP producer for Sakai applications.  The problem with using Sakai's WSRP producer is that a separate producer-consumer pair must be established and configured or each "tool placement" within Sakai.    Since each user is presented with a completely different set of tool placements, it is difficult to replicate the entire Sakai structure in the portal using only WSRP unless some non-standard mechanism is used to communicate the structure for each user.
+
+Like many of the other technology components in the eScience solution, Sakai has a very intimate relationship with the project-wide eScience portal.  The other area that is very important to Sakai is the Data Repository.
+
+Sakai and Data Repositories
+
+When an eScience collaboration uses Sakai for its collaborative activity, there is a unique opportunity to capture the collaborative activity as part of the scientific record of the eScience activity.  Unlike a set of ad hoc mailing lists or web sites, all of Sakai collaborative activity is stored in a single place with rich metadata around the activity.    Every mail message, chat message, schedule entry, and uploaded file is tracked and tagged.    
+
+It is quite natural to export a Sakai site into an XML format for long-term storage in a repository.  The ideal situation is when the eScience activity has some type of unifying identifier so that various elements of an activity can be related in the repository.  In Life Sciences, this might be a Life Sciences ID (LSSID) that would be associated with a particular set of experiments of research project.  My marking all of the activities (experimental data, compute runs, collaborative activity, etc) this data can then be stored "together" so that anyone looking back at the data will get the full picture around the data elements they are looking at.
+
+It would be possible, not only to see experimental data from sensors, but also to see the draft design documents, and the discussion around those design documents. This rich information can be used to provide a much more complete picture of the data in context.
+
+Sakai currently allows the manual export of sites and manual placement of the data in a long-term store such as SRB or Fedora.    This manual process could be automated to automatically produce the export and store the exported information in SRB or Fedora.
+
+In the long term, Sakai is looking at using RDF [ref] and OWL[ref] to make the transfer of data between Sakai and data repositories more natural and dynamic.
+
+Conclusion
+
+To best serve and eScience community an eScience deployment team must look beyond a single technology and work to integrate a number of important technologies together.  It is more difficult to integrate technologies together, but it allows the team to choose the best solution for each aspect of the eScience solution.
+
+Increasingly technology providers must understand that their tools are not stand-alone but must cooperate with other solutions as peers.  Data exchange between large applications is an essential aspect of the use of an application.  Strong support for web services in each application helps significantly in allowing the project team to do the necessary integration.
+
+Like many of the other elements of an eScience solution, the Sakai collaborative toolkit must function as a standalone application.  Sakai also is working to properly integrate with the other elements in the eScience solution - and in particular Sakai is working on integrating smoothly with JSR-168 portals and data repository systems.
+
+As many eScience projects try to move from the initial prototype/proof-of-concept/demonstrator phase up to full production phase, the project teams will increasingly need to be integrating multiple technologies rather than relying on a single technology.
+
+References
+
+Globus
+
+SRB
+
+Ferdora
+
+Sakai
+
+GridSphere
+
+uPortal
+
+JSR-168
+
+WSRP
+
+D2K
+
+Kepler
+
+NVO
+
+LSSID
+
+RDF
+
+OWL
+

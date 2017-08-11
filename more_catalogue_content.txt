@@ -1,0 +1,11 @@
+http://www-1.ibm.com/grid/about_grid/index.shtml$Introductory Material and Support|High Performance Computing|Grid and Web Services
+http://www-1.ibm.com/grid/about_grid/what_is.shtml$Introductory Material and Support|High Performance Computing|Grid and Web Services
+http://www-1.ibm.com/grid/about_grid/ibm_grid/index.shtml$Introductory Material and Support|High Performance Computing|Grid and Web Services
+http://www-1.ibm.com/grid/about_grid/benefits.shtml$Introductory Material and Support|High Performance Computing|Grid and Web Services
+http://www-1.ibm.com/grid/about_grid/faq.shtml$Introductory Material and Support|High Performance Computing|Grid and Web Services
+http://www-128.ibm.com/developerworks/grid/library/gr-gt4mds/$Grid and Web Services|High Performance Computing|Software Development
+http://www-128.ibm.com/developerworks/grid/library/gr-feddata/$Data Management|Databases
+http://tyne.dl.ac.uk/ReDRESS/Grid/unit1.html$Introductory Material and Support|High Performance Computing|Grid and Web Services
+http://www.soc.surrey.ac.uk/pdfs/hine_oii.pdf$Social Shaping
+http://www.socresonline.org.uk/7/2/hine.html$Social Shaping
+http://www.sosig.ac.uk/iriss/papers/paper16.htm$Social Shaping

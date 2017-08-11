@@ -1,0 +1,56 @@
+SUCCESS on http://tyne.dl.ac.uk/ReDRESS/Beowulf/beowulf_doc: Catalogue Category: High Performance Computing. Classified as: High Performance Computing|Grid and Web Services
+SUCCESS on http://www.ukhec.ac.uk/publications/reports/numlib.pdf: Catalogue Category: High Performance Computing. Classified as: High Performance Computing
+SUCCESS on http://www-128.ibm.com/developerworks/grid/library/gr-feddata/: Catalogue Category: Data Management. Classified as: Data Management
+SUCCESS on http://www.ogsadai.org.uk/courses/: Catalogue Category: Data Management. Classified as: Data Management
+SUCCESS on http://redress.lancs.ac.uk/document-pool/WhatIsOGSADAI3.pdf: Catalogue Category: Data Management. Classified as: Data Management
+SUCCESS on http://redress.lancs.ac.uk/vre/Paul Shabajee/session6imp.html: Catalogue Category: Portals and Related Technology. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/vre/roballan/session4and5/session4and5.html: Catalogue Category: Portals and Related Technology. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/vre/roballan/session3/session3imp.html: Catalogue Category: Portals and Related Technology. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/vre/John Norman/session9imp.html: Catalogue Category: Portals and Related Technology. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/vre/roballan/session1/session1imp.html: Catalogue Category: Portals and Related Technology. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk//resources/Patrick%20Carmichael/Managing%20information%20with%20D-Space%20and%20VREs/Managing-information-with-D-Space-and-VREs.html: Catalogue Category: Portals and Related Technology. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/vre/mark_baker/session2/session2imp.html: Catalogue Category: Portals and Related Technology. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/vre/chuckseverence/session8/session8.html: Catalogue Category: Portals and Related Technology. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/vre/francisco/session7imp/session7imp.html: Catalogue Category: Portals and Related Technology. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://www.ukhec.ac.uk/publications/reports/guienv.pdf: Catalogue Category: Visualisation. Classified as: Visualisation
+SUCCESS on http://www.ukhec.ac.uk/publications/reports/estimation.pdf: Catalogue Category: Software Development. Classified as: Software Development
+SUCCESS on http://www.ukhec.ac.uk/publications/reports/softtools.pdf: Catalogue Category: Software Development. Classified as: Software Development
+SUCCESS on http://www.grids.ac.uk/Grid/index.shtml: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://tyne.dl.ac.uk/ReDRESS/WebServices/webServices_doc: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://www-1.ibm.com/grid/about_grid/benefits.shtml: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://www-1.ibm.com/grid/about_grid/ibm_grid/index.shtml: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://tyne.dl.ac.uk/ReDRESS/Grid/index.shtml: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://www-1.ibm.com/grid/about_grid/index.shtml: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://www.epcc.ed.ac.uk/projects/inwa/: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://redress.lancs.ac.uk/growl/growl.php: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://www.gridtoday.com/02/0722/100136.html: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://www.gridcomputing.com/gridfaq.html: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://www.ccsr.ac.uk/research/griddisclosure.htm: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://www-1.ibm.com/grid/about_grid/faq.shtml: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://tyne.dl.ac.uk/ReDRESS/Grid/ncess_ahm_allan_pickles.pdf: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://www-128.ibm.com/developerworks/grid/library/gr-gt4mds/: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://www-1.ibm.com/grid/gridandgrow.shtml: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://tyne.dl.ac.uk/ReDRESS/Grid/unit1.html: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://www-1.ibm.com/grid/about_grid/what_is.shtml: Catalogue Category: Grid and Web Services. Classified as: Grid and Web Services
+SUCCESS on http://eprints.ecs.soton.ac.uk/7286/01/RoughGuideToGridSecurityV1_1a.pdf: Catalogue Category: Security and Confidentiality. Classified as: Security and Confidentiality
+SUCCESS on http://tyne.dl.ac.uk/StarterKit/HTML/SSL/contents.html: Catalogue Category: Security and Confidentiality. Classified as: Security and Confidentiality
+SUCCESS on http://tyne.dl.ac.uk/StarterKit/HTML/PKI/contents.html: Catalogue Category: Security and Confidentiality. Classified as: Security and Confidentiality
+SUCCESS on http://www.esds.ac.uk/International/: Catalogue Category: Databases. Classified as: Databases
+SUCCESS on http://ahds.ac.uk/history/index.htm: Catalogue Category: Databases. Classified as: Databases
+SUCCESS on http://ahds.ac.uk/history/collections/index.htm: Catalogue Category: Databases. Classified as: Databases
+SUCCESS on http://nesstar.esds.ac.uk/webview/index.jsp: Catalogue Category: Databases. Classified as: Databases|Grid and Web Services
+SUCCESS on http://www.sosig.ac.uk/statistics/: Catalogue Category: Databases. Classified as: Databases
+SUCCESS on http://www.data-archive.ac.uk: Catalogue Category: Databases. Classified as: Databases
+SUCCESS on http://redress.lancs.ac.uk//resources/Paul%20Watry/Cheshire%20Framework/Cheshire-Framework.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/resources/Rob%20Crouchley/Information%20Workshop%20Intro/Information-Workshop-Intro.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/resources/Phil%20Couch/Information%20Management%20Strategies%20for%20Computational%20Chemistry/Information-Management-Strategies-for-Computational-Chemistry.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/resources/Andy%20Powell/JISC%20Information%20Environment/session9.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk//resources/Adrian%20Fish/Learning%20Ladders/Learning-Ladders.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk//resources/Patrick%20Carmichael/Managing%20information%20with%20D-Space%20and%20VREs/Managing-information-with-D-Space-and-VREs.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/resources/Angela Abell/Knowledge Management Roadmap/Knowledge-Management-Roadmap.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk//resources/Khurshid Ahmad/The quality of social interaction/The-quality-of-social-interaction.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://www.semanticgrid.org/brief/: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Semantics, Knowledge and Information Management
+SUCCESS on http://redress.lancs.ac.uk/resources/Lee Gillam/Metadata Terminology and Ontology/Metadata-Terminology-and-Ontology.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+SUCCESS on http://www.nesc.ac.uk/talks/533/LesCottrellNFNN2.pdf: Catalogue Category: Network Technology. Classified as: Network Technology
+SUCCESS on http://www.nesc.ac.uk/esi/events/533/: Catalogue Category: Network Technology. Classified as: Network Technology
+SUCCESS on http://www.jisc.ac.uk/index.cfm?name=pub_ibsmwireless: Catalogue Category: Network Technology. Classified as: Network Technology

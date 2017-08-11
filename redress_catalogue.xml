@@ -1,0 +1,1035 @@
+<?xml version="1.0"?>
+<catalogue
+		xmlns="http://redress.lancs.ac.uk/catalogue/"
+	   	xmlns:dcmi="http://purl.org/dc/elements/1.1/">
+<!-- Describes the ReDRESS Content Catalogue Data Model
+     R.J. Allan - 22/10/04, A. Fish - 7/12/04
+	 -->
+<name>ReDReSS</name>
+
+<s-desc>Learning Space Catalogue for ReDReSS: Resource Discovery for Researchers in e-Social Science.</s-desc>
+
+	<category name="Introductory Material and Support" description="What is ReDRESS all about?">
+
+		<content>
+			<dcmi:description>This web page gives an overview of th ESRC / JISC funded ReDReSS Project.</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/overview.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Audrienne Cutajar Bezzina</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>This web page forms part of the ReDReSS project web site.  There are many acronyms associated with GRID technology, too many to remember. This web page is provided as a reference source for these acronyms.  It offers an indexed list, with associated descriptions, of popular GRID Acronyms.</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/acr/acr_a.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster</dcmi:publisher>
+			<dcmi:creator>Audrienne Cutajar Bezzina</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Various talks on GRID technology.</dcmi:description>
+			<dcmi:identifier>http://www-fp.mcs.anl.gov/~foster/talks.htm</dcmi:identifier>
+			<dcmi:publisher>Argonne</dcmi:publisher>
+			<dcmi:creator>Ian Foster</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Courses at National e-Science Centre (NeSC) - The Training Team at the National e-Science Centre (NeSC) creates and delivers training courses to encourage development, uptake and proficient use of e-Science technologies and infrastructure across industry and public service as well as in many fields of research.</dcmi:description> 
+			<dcmi:identifier>http://www.nesc.ac.uk/training/</dcmi:identifier>
+			<dcmi:publisher>NeSC</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Humanities and Arts and Social Sciences Research Group Web Site - The Humanities, Arts and Social Science Research Group (HASS-RG) will identify and develop capability for the Humanities, Arts and Social Science with Information Technology on a grid infrastructure.</dcmi:description> 
+			<dcmi:identifier>http://forge.gridforum.org/projects/hass-rg</dcmi:identifier>
+			<dcmi:publisher>GGF</dcmi:publisher>
+			<dcmi:creator>Allison Clark</dcmi:creator> <dcmi:publisher>GGF</dcmi:publisher>
+			<dcmi:creator>Kevin Franklin</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>UK High end Computing web site - The aim of the UKHEC initiative is to investigate emerging areas of computing and to inform and provide advice to the user community in hardware and software developments, in new tools, in best practice code development and in data management.</dcmi:description> 
+			<dcmi:identifier>http://www.ukhec.ac.uk</dcmi:identifier>
+			<dcmi:publisher>UKHEC</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Distance Learning and Support Document. This is a scientific and technological study undertaken by the ICCC Group a.s , Division HPC, Prague, Czech Republic (ICCC) for the ENACTS network, during the preiod September 2003 – March 2004. ENACTS is a Co-operation Network in the ‘Improving Human Potential Access to
+Research Infrastructures’ Programme. This Infrastructure Co-operation Network brings together High Performance Computing
+(HPC), Large Scale Facilities (LSF) funded by the DGXII's IHP programme and key user
+groups. The aim is to evaluate future trends in the way that computational science will be
+performed and the pan-European implications.</dcmi:description> 
+			<dcmi:identifier>http://www.enacts.org/distancelearning.pdf</dcmi:identifier>
+			<dcmi:publisher>ICCC Group</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		
+
+	</category>
+
+	<category name="Motivation and Background" description="Why is e-Science important to the Social Science research agenda?">
+
+		<content>
+			<dcmi:description>What is e-Social Science? Introduction to the ESRC Strategy.</dcmi:description> 
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_rodden.pdf</dcmi:identifier> 
+			<dcmi:publisher>Nottingham</dcmi:publisher>
+			<dcmi:creator>Tom Rodden</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>ESRC Consultancy Reports.</dcmi:description> 
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/ncess.shtml</dcmi:identifier> 
+			<dcmi:publisher>ESRC</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>The ESRC Pilot Demonstrator Projects.</dcmi:description> 
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/pdps.shtml</dcmi:identifier> 
+			<dcmi:publisher>ESRC</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>NCeSS: The National Centre for e-Social Science.</dcmi:description> 
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/ncess.shtml</dcmi:identifier> 
+			<dcmi:publisher>NCeSS</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Introduction to NCeSS.</dcmi:description> 
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_halfpenny.pdf</dcmi:identifier> 
+			<dcmi:publisher>NCeSS</dcmi:publisher>
+			<dcmi:creator>Peter Halfpenny</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>NCeSS Research Programme.</dcmi:description> 
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_procter.pdf</dcmi:identifier> 
+			<dcmi:publisher>NCeSS</dcmi:publisher>
+			<dcmi:creator>Rob Procter</dcmi:creator>
+		</content>
+		<content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/robcrouchley/robcrouchley.html</dcmi:identifier>
+			<dcmi:description>A Narrow and Personal View on Quantitative Methods and e-Social Science, Without an Agenda.</dcmi:description>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Rob Crouchley</dcmi:creator>
+		</content>
+	    <content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/robprocter/Presentation1.html</dcmi:identifier>
+			<dcmi:description>An overview of NCeSS.</dcmi:description>
+			<dcmi:publisher>NCESS</dcmi:publisher>
+			<dcmi:creator>Rob Procter</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>A series of lectures introducing the Grid, given at CERN.</dcmi:description> 
+			<dcmi:identifier>http://academia.web.cern.ch/academia/lectures/grid/</dcmi:identifier>
+			<dcmi:publisher>CERN</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+	</category>
+
+	<category name="Agenda Setting Workshops" description="Ongoing JISC funded workshops.">
+
+		<content>
+			<dcmi:description>Digital Records and Representations of Human Activities</dcmi:description>
+			<dcmi:identifier>http://www.mrl.nott.ac.uk/%7Eaxc/eSocial_Science_Workshop.htm</dcmi:identifier>
+			<dcmi:publisher>Nottingham</dcmi:publisher>
+			<dcmi:creator>Tom Rodden</dcmi:creator>
+		</content>
+<content>
+<dcmi:description>Jennifer A. Scott, Rutherford Appleton Laboratory - HSL and an Introduction to Sparse Linear Systems.</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/jennifer/asw.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator></content>
+<content>
+<dcmi:description>Lee Gillam, Department of Computing, University of Surrey - Analysis of Non-stochastic Time Varying Data - FINGRID.</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/lee/lee.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator></content>
+<content>
+<dcmi:description>Mark Birkin, Node Director, University of Leeds - MOSES: Modelling and Simulation for e-Social Science.</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/markbirkin/markbirkin.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator></content>
+<content>
+<dcmi:description>Rob Allan and Rob Crouchley - The UK National Grid Service.</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/roballan/talk1/talk1.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator></content>
+<content>
+<dcmi:description>Rob Allan, CCLRC e-Science Centre and JISC Common Framework Working Group - How to Use the Grid.</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/roballan/talk2/talk2.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator></content>
+<content>
+<dcmi:description>Rob Crouchley, Centre for e-Science, Lancaster University - A Narrow and Personal View on Quantitative Methods and e-Social Science, Without an Agenda.</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/robcrouchley/robcrouchley.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator></content>
+<content>
+<dcmi:description>Rob Procter - Research Director NCeSS</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/robprocter/Presentation1.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator></content>
+<content>
+<dcmi:description>5th October 2005 Agenda Setting Workshop - K. Ahmad, University of Surrey, Abstract - The quality of social interaction: Towards an automatic analysis of sentiments in informative and persuasive texts.</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/document-pool/Abstract_K.Ahmad_5thoct2005asw.doc</dcmi:identifier>
+			<dcmi:publisher>University of Surrey</dcmi:publisher>
+			<dcmi:creator>K. Ahmad</dcmi:creator></content>
+	</category>
+
+	<category name="UK e-Science Programme" description="Links to material and support from the RCUK and JISC e-Science Programme.">
+
+		<content>
+			<dcmi:description>Economic and Social Research Council (ESRC)</dcmi:description>
+			<dcmi:identifier>http://www.esrc.ac.uk/esrccontent/researchfunding/</dcmi:identifier>
+			<dcmi:publisher>ESRC</dcmi:publisher>
+			<dcmi:creator></dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>National Centre for e-Social Science (NCeSS)</dcmi:description>
+			<dcmi:identifier>http://www.ncess.ac.uk</dcmi:identifier>
+			<dcmi:publisher>NCeSS</dcmi:publisher>
+			<dcmi:creator></dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>National e-Science Centre (NeSC)</dcmi:description>
+			<dcmi:identifier>http://www.nesc.ac.uk</dcmi:identifier>
+			<dcmi:publisher>NeSC</dcmi:publisher>
+			<dcmi:creator>Malcolm Atkinson</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Centre of Excellence for e-Social Science</dcmi:description>
+			<dcmi:identifier>http://e-social-science.lancs.ac.uk</dcmi:identifier>
+			<dcmi:publisher>Lancaster</dcmi:publisher>
+			<dcmi:creator>Rob Crouchley</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Oxford e-Science Centre (OeSC)</dcmi:description>
+			<dcmi:identifier>http://e-science.ox.ac.uk</dcmi:identifier>
+			<dcmi:publisher>Oxford</dcmi:publisher>
+			<dcmi:creator></dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>Agenda Setting Workshop - Lancaster 6th April 2005 Presentations</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/Presentations.html#agenda6th</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator>
+		</content>
+	</category>
+
+	<category name="Collaboration" description="e-Collaboration technologies, e.g. Access Grid.">
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_hewitt.pdf</dcmi:identifier>
+			<dcmi:description>Collaborative Technologies</dcmi:description>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Terry Hewitt</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Access Grid Tutorial</dcmi:description> 
+			<dcmi:identifier>http://www.ncess.ac.uk/resources/fasttrack/index.html</dcmi:identifier> 
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Fast Track Project</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Collaborative Advanced Knowledge Technologies</dcmi:description> 
+			<dcmi:identifier>http://www.aktors.org/coakting</dcmi:identifier> 
+			<dcmi:publisher>NCeSS</dcmi:publisher>
+			<dcmi:creator>CoAktIng</dcmi:creator>
+		</content>
+	</category>
+
+	<category name="Data Management" description="Data Management applied to qualitative, quantitative and combined data.">
+
+		<content>
+			<dcmi:description>High-Level Data Management Grid Middleware</dcmi:description> 
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_fernandes.pdf</dcmi:identifier> 
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Alvaro Fernandes</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Data Grids</dcmi:description>
+			<dcmi:identifier>http://www.globus.org/datagrid/</dcmi:identifier>
+			<dcmi:publisher>Globus Team</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>SRB: What and Why?</dcmi:description> 
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_kleesevandam.pdf
+</dcmi:identifier> 
+			<dcmi:publisher>CCLRC</dcmi:publisher>
+			<dcmi:creator>Kerstin Kleese van Dam</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_russell_jones.pdf</dcmi:identifier>
+			<dcmi:description>SAMD</dcmi:description>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Celia Russell</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Keith Cole</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Mike Jones</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Stephen Pickles</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>M. Riding</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Kevin Roy</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>M. Sensier</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>OGSA-DAI Courses</dcmi:description>
+ <dcmi:identifier>http://www.ogsadai.org.uk/courses/</dcmi:identifier>
+			<dcmi:publisher>OGSA-DAI</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Data Management and Assimilation</dcmi:description> 
+			<dcmi:identifier>http://www.enacts.org/datamanagement.pdf</dcmi:identifier>
+			<dcmi:publisher>ENACTS Network</dcmi:publisher>
+			<dcmi:creator>Giovanni Erbacci</dcmi:creator>
+			<dcmi:creator>Marco Sbrighi</dcmi:creator>
+			<dcmi:creator>Audrey Crosbie</dcmi:creator>	
+			<dcmi:creator>Carole McGloughlin</dcmi:creator>
+			</content>
+
+<content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/document-pool/WhatIsOGSADAI3.pdf</dcmi:identifier>
+			<dcmi:description>Why use OGSA-DAI and OGSA-DQP for e-Social Science?</dcmi:description>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Rob Crouchley</dcmi:creator>
+			<dcmi:publisher>CCLRC Daresbury Laboratory</dcmi:publisher>
+			<dcmi:creator>Rob Allan</dcmi:creator>
+			<dcmi:creator>Xiao Dong Wang</dcmi:creator>		
+		</content>
+	</category>
+
+
+<category name="Visualisation" description="Applying visualisation and VR techniques to better understanding of data"> 
+<content> <dcmi:description>Graphical User Environments for Scientific Computing</dcmi:description> <dcmi:identifier>http://www.ukhec.ac.uk/publications/reports/guienv.pdf</dcmi:identifier>
+			<dcmi:publisher>UKHEC</dcmi:publisher>
+			<dcmi:creator>Rob Allan</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Scientific Applications of Visualisation, VR and HPC</dcmi:description> 
+			<dcmi:identifier>http://www.ukhec.ac.uk/publications/reports/VR_Briefing.ps.gz</dcmi:identifier>
+			<dcmi:publisher>UKHEC</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Visualisation Case Studies</dcmi:description> 
+			<dcmi:identifier>http://www.ukhec.ac.uk/publications</dcmi:identifier>
+			<dcmi:publisher>Various</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+</category>
+
+	<category name="Semantics, Knowledge and Information Management" description="Tools and technology for semantics, knowledge and information management.">
+
+		<content>
+			<dcmi:description>Building the Semantic Grid</dcmi:description> 
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_goble.pdf</dcmi:identifier> 
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Carole Goble</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Collaborative Advanced Knowledge Technologies</dcmi:description> 
+			<dcmi:identifier>http://www.aktors.org/coakting</dcmi:identifier> 
+			<dcmi:publisher>NCeSS</dcmi:publisher>
+			<dcmi:creator>CoAktIng</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>ReDReSS Project Thesaurus</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/acr.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster</dcmi:publisher>
+			<dcmi:creator>Audrienne Cutajar Bezzina</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_preece_pignotti.pdf</dcmi:identifier>
+			<dcmi:description>Pilot Semantic Grid Service for Environmental Modelling</dcmi:description>
+			<dcmi:publisher>Aberdeen</dcmi:publisher>
+			<dcmi:creator>Pete Edwards</dcmi:creator>
+			<dcmi:publisher>Aberdeen</dcmi:publisher>
+			<dcmi:creator>Alun Preece</dcmi:creator>
+			<dcmi:publisher>Aberdeen</dcmi:publisher>
+			<dcmi:creator>Edoardo Pignotti</dcmi:creator>
+			<dcmi:publisher>Aberdeen</dcmi:publisher>
+			<dcmi:creator>Nick Gotts</dcmi:creator>
+			<dcmi:publisher>Aberdeen</dcmi:publisher>
+			<dcmi:creator>Gary Polhill</dcmi:creator>
+		</content>
+<content>
+<dcmi:description>5th October 2005 Agenda Setting Workshop - K. Ahmad, University of Surrey, Abstract - The quality of social interaction: Towards an automatic analysis of sentiments in informative and persuasive texts.</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/document-pool/Abstract_K.Ahmad_5thoct2005asw.doc</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>K. Ahmad</dcmi:creator></content>
+<content>
+			<dcmi:description>Information Workshop Introduction</dcmi:description> 
+			<dcmi:identifier>http://redress.lancs.ac.uk/resources/Rob%20Crouchley/Information%20Workshop%20Intro/Information-Workshop-Intro.html</dcmi:identifier> 
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Rob Crouchley</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>Information Management Strategies for Computational Chemistry</dcmi:description> 
+			<dcmi:identifier>http://redress.lancs.ac.uk/resources/Phil%20Couch/Information%20Management%20Strategies%20for%20Computational%20Chemistry/Information-Management-Strategies-for-Computational-Chemistry.html</dcmi:identifier> 
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Phil Couch</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>Managing information with D Space and VREs</dcmi:description> 
+			<dcmi:identifier>http://redress.lancs.ac.uk//resources/Patrick%20Carmichael/Managing%20information%20with%20D-Space%20and%20VREs/Managing-information-with-D-Space-and-VREs.html</dcmi:identifier> 
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Patrick Carmichael</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>Metadata Terminology and Ontology</dcmi:description> 
+			<dcmi:identifier>http://redress.lancs.ac.uk/resources/Lee Gillam/Metadata Terminology and Ontology/Metadata-Terminology-and-Ontology.html</dcmi:identifier> 
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Lee Gillam</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>The KM Roadmap, A current JISC Project</dcmi:description> 
+			<dcmi:identifier>http://redress.lancs.ac.uk/resources/Angela Abell/Knowledge Management Roadmap/Knowledge-Management-Roadmap.html</dcmi:identifier> 
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Angela Abell</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>The Quality of Social Interaction: Towards an Automatic Analysis of Sentiments in Informative and Persuasive Texts</dcmi:description> 
+			<dcmi:identifier>http://redress.lancs.ac.uk//resources/Khurshid Ahmad/The quality of social interaction/The-quality-of-social-interaction.html</dcmi:identifier> 
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Khurshid Ahmad</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>Creating Learning Ladders from Distributed Content.</dcmi:description> 
+			<dcmi:identifier>http://redress.lancs.ac.uk//resources/Adrian%20Fish/Learning%20Ladders/Learning-Ladders.html</dcmi:identifier> 
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Adrian Fish</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>Cheshire Framework.</dcmi:description> 
+			<dcmi:identifier>http://redress.lancs.ac.uk//resources/Paul%20Watry/Cheshire%20Framework/Cheshire-Framework.html</dcmi:identifier> 
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Watry</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>JISC IE Architecture, Collections and Registries.</dcmi:description> 
+			<dcmi:identifier>http://redress.lancs.ac.uk/resources/Andy%20Powell/JISC%20Information%20Environment/session9.html</dcmi:identifier> 
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Andy Powell</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>A Brief History of the Semantic Grid</dcmi:description> 
+			<dcmi:identifier>http://www.semanticgrid.org/brief/</dcmi:identifier> 
+			<dcmi:publisher>University of Southampton</dcmi:publisher>
+			<dcmi:creator>David De Roure</dcmi:creator>
+			<dcmi:creator>Schloss Dagstuhl</dcmi:creator>
+		</content>
+
+	</category>
+
+	<category name="Examples from e-Social Science Projects" description="Material about pilot demonstrator projects and examples.">
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/CQeSSR2.ppt</dcmi:identifier>
+			<dcmi:description>
+An OGSA Component-Based Approach to Middleware for Statistical Modelling</dcmi:description>
+			<dcmi:publisher>Lancaster</dcmi:publisher>
+			<dcmi:creator>Rob Crouchley</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_fraser_hindmarsh.pdf</dcmi:identifier>
+			<dcmi:description>VidGrid: Distributed Video Analysis with Grid Technologies</dcmi:description>
+			<dcmi:publisher>Bristol</dcmi:publisher>
+			<dcmi:creator>Mike Fraser</dcmi:creator>
+			<dcmi:publisher>Kings</dcmi:publisher>
+			<dcmi:creator>Jon Hindmarsh</dcmi:creator>
+			<dcmi:publisher>Kings</dcmi:publisher>
+			<dcmi:creator>Christian Heath</dcmi:creator>
+			<dcmi:publisher>Kings</dcmi:publisher>
+			<dcmi:creator>Katie Best</dcmi:creator>
+			<dcmi:publisher>Nottingham</dcmi:publisher>
+			<dcmi:creator>Chris Greenhalgh</dcmi:creator>
+			<dcmi:publisher>Nottingham</dcmi:publisher>
+			<dcmi:creator>Steve Benford</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_hume.pdf</dcmi:identifier>
+			<dcmi:description>Informing Business and Regional Policy: Grid-enabled fusion of global data and local knowledge</dcmi:description>
+			<dcmi:publisher>Edinburgh</dcmi:publisher>
+			<dcmi:creator>Alistair Hulme</dcmi:creator>
+			<dcmi:publisher>Edinburgh</dcmi:publisher>
+			<dcmi:creator>Terry Sloan</dcmi:creator>
+			<dcmi:publisher>Edinburgh</dcmi:publisher>
+			<dcmi:creator>Adam Carter</dcmi:creator>
+			<dcmi:publisher>Edinburgh</dcmi:publisher>
+			<dcmi:creator>Ashley Lloyd</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_maclaren.pdf</dcmi:identifier>
+			<dcmi:description>ConvertGrid: Cross-Referencing Data Held in Different Geographies</dcmi:description>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Jon MacLaren</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Grid-Enabled Micro-Econometric Data Analysis</dcmi:description>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Simon Peters</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_elliot.pdf</dcmi:identifier>
+			<dcmi:description>An Investigation of Disclosure Issues Posed by the Grid</dcmi:description>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Mark Elliot</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Stephen Pickles</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Kingsley Purdham</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Duncan Smith</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_russell_jones.pdf</dcmi:identifier>
+			<dcmi:description>SAMD</dcmi:description>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Celia Russell</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Keith Cole</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Mike Jones</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Stephen Pickles</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>M. Riding</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Kevin Roy</dcmi:creator>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>M. Sensier</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_birkin.pdf</dcmi:identifier>
+			<dcmi:description>Hydra II Grid Based Spatial Planning Services</dcmi:description>
+			<dcmi:publisher>Leeds</dcmi:publisher>
+			<dcmi:creator>Mark Birkin</dcmi:creator>
+			<dcmi:publisher>Leeds</dcmi:publisher>
+			<dcmi:creator>John Hodrien</dcmi:creator>
+			<dcmi:publisher>Leeds</dcmi:publisher>
+			<dcmi:creator>Olga MacFarland</dcmi:creator>
+			<dcmi:publisher>Leeds</dcmi:publisher>
+			<dcmi:creator>Peter Dew</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_preece_pignotti.pdf</dcmi:identifier>
+			<dcmi:description>Pilot Semantic Grid Service for Environmental Modelling</dcmi:description>
+			<dcmi:publisher>Aberdeen</dcmi:publisher>
+			<dcmi:creator>Pete Edwards</dcmi:creator>
+			<dcmi:publisher>Aberdeen</dcmi:publisher>
+			<dcmi:creator>Alun Preece</dcmi:creator>
+			<dcmi:publisher>Aberdeen</dcmi:publisher>
+			<dcmi:creator>Edoardo Pignotti</dcmi:creator>
+			<dcmi:publisher>Aberdeen</dcmi:publisher>
+			<dcmi:creator>Nick Gotts</dcmi:creator>
+			<dcmi:publisher>Aberdeen</dcmi:publisher>
+			<dcmi:creator>Gary Polhill</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Genealogies of Knowledge - Developing Anthopological Middleware to Support Fieldwork-Based Social Science</dcmi:description>
+			<dcmi:publisher>Kent</dcmi:publisher>
+			<dcmi:creator>Steve Lyon</dcmi:creator>
+			<dcmi:publisher>Kent</dcmi:publisher>
+			<dcmi:creator>David Zeitlyn</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_kim_wessels.pdf</dcmi:identifier>
+			<dcmi:description>Collaborative Analysis of Offenders' Personal and Area-Based Social Exclusion</dcmi:description>
+			<dcmi:publisher>Sheffield</dcmi:publisher>
+			<dcmi:creator>Max Craglia</dcmi:creator>
+			<dcmi:publisher>Sheffield</dcmi:publisher>
+			<dcmi:creator>Micheline Beaulieu</dcmi:creator>
+			<dcmi:publisher>Sheffield</dcmi:publisher>
+			<dcmi:creator>Andrew Costello </dcmi:creator>
+			<dcmi:publisher>Sheffield</dcmi:publisher>
+			<dcmi:creator>Alan France</dcmi:creator>
+			<dcmi:publisher>Sheffield</dcmi:publisher>
+			<dcmi:creator>Mike Griffiths</dcmi:creator>
+			<dcmi:publisher>Sheffield</dcmi:publisher>
+			<dcmi:creator>Young-Hoon Kim</dcmi:creator>
+			<dcmi:publisher>Sheffield</dcmi:publisher>
+			<dcmi:creator>Mahesan Niranjan</dcmi:creator>
+			<dcmi:publisher>Sheffield</dcmi:publisher>
+			<dcmi:creator>Bridgette Wessels</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_ahmad.pdf</dcmi:identifier>
+			<dcmi:description>FINGRID - Financial Information Grid</dcmi:description> Geography and the Grid, lessons from the US (Bob Barr) 
+			<dcmi:publisher>Surrey</dcmi:publisher>
+			<dcmi:creator>Khurshid Ahmad</dcmi:creator>
+			<dcmi:publisher>Essex</dcmi:publisher>
+			<dcmi:creator>John Nankervis</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_mineter.pdf</dcmi:identifier>
+			<dcmi:description>Geographical Information Services and Virtual Organisations</dcmi:description>
+			<dcmi:publisher>Edinburgh</dcmi:publisher>
+			<dcmi:creator>Mike Mineter</dcmi:creator>
+		</content> 
+	    <content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/lee/lee.html</dcmi:identifier>
+			<dcmi:description>Analysis of Non-stochastic Time Varying Data - FINGRID</dcmi:description>
+			<dcmi:publisher>University of Surrey</dcmi:publisher>
+			<dcmi:creator>Lee Gillam</dcmi:creator>
+		</content>
+  <content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/markbirkin/markbirkin.html</dcmi:identifier>
+			<dcmi:description>MOSES: Modelling and Simulation for e-Social Science</dcmi:description>
+			<dcmi:publisher>University of Leeds</dcmi:publisher>
+			<dcmi:creator>Mark Birkin</dcmi:creator>
+		</content>
+	</category>
+
+	<category name="Software Development" description="Issues of best practice and management.">
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/SoftDev/index.shtml</dcmi:identifier>
+			<dcmi:description>Software Development Best Practice</dcmi:description>
+			<dcmi:publisher>CCLRC</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/CodeDev/codedev_doc</dcmi:identifier>
+			<dcmi:description>Code Development Processes and Tools</dcmi:description>
+			<dcmi:publisher>UKHEC</dcmi:publisher>
+			<dcmi:creator>M. Antonioletti</dcmi:creator>
+<dcmi:creator>E. Breitmoser</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Software Tools for HPC Applications</dcmi:description> <dcmi:identifier>http://www.ukhec.ac.uk/publications/reports/softtools.pdf</dcmi:identifier>
+			<dcmi:publisher>UKHEC</dcmi:publisher>
+			<dcmi:creator>Chris Greenough</dcmi:creator> </content>
+
+		<content>
+			<dcmi:description>Grid Application Development Environments</dcmi:description>
+			<dcmi:identifier>http://www.globus.org/research/development-environments.html</dcmi:identifier>
+			<dcmi:publisher>Globus Team</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>UKHEC Report on Software Estimation</dcmi:description> <dcmi:identifier>http://www.ukhec.ac.uk/publications/reports/estimation.pdf</dcmi:identifier>
+			<dcmi:publisher>UKHEC</dcmi:publisher>
+			<dcmi:creator>Terry Sloan</dcmi:creator> </content>
+
+		<content>
+			<dcmi:description>Fortran 95 for Fortran 77 Programmers</dcmi:description> <dcmi:identifier>http://www.ukhec.ac.uk/publications/guides/fortran95.pdf</dcmi:identifier>
+			<dcmi:publisher>UKHEC</dcmi:publisher>
+			<dcmi:creator>Ian Bush</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Java for Scientific Computing - an Introduction to Java</dcmi:description> 
+			<dcmi:identifier>http://www.ukhec.ac.uk/publications/guides/javaitro.pdf</dcmi:identifier>
+			<dcmi:publisher>UKHEC</dcmi:publisher>
+			<dcmi:creator>Daniel Hanlon</dcmi:creator> </content>
+
+		<content>
+			<dcmi:description>Software Efficiency and Reusability</dcmi:description> 
+			<dcmi:identifier>http://www.enacts.org/softwareefficiency.pdf</dcmi:identifier>
+			<dcmi:publisher>ENACTS</dcmi:publisher>
+			<dcmi:creator>Parallab, Bergen Center for Computational Science, University of Bergen (Norway)</dcmi:creator>
+		</content>
+	</category>
+
+	<category name="Social Shaping" description="Social Shaping of e-Science.">
+
+		<content>
+			<dcmi:identifier>http://www.soc.surrey.ac.uk/christine_hine.htm</dcmi:identifier>
+			<dcmi:description>Social Shaping of e-Science</dcmi:description>. 
+			<dcmi:publisher>University of Surrey</dcmi:publisher>
+			<dcmi:creator>Christine Hine</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>ESRC Consultancy Report</dcmi:description>
+			 <dcmi:identifier>http://www.ncess.ac.uk/docs/social_shaping_perspectives.pdf</dcmi:identifier>
+			<dcmi:publisher>NCESS</dcmi:publisher>
+			<dcmi:creator>Steve Woolgar</dcmi:creator>
+		</content>
+	</category>
+
+	<category name="Portals and Related Technology" description="User interfaces for e-Science projects.">
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/Portals/Introduction%20to%20Grid%20Portals.ppt</dcmi:identifier>
+			<dcmi:description>Portals Tutorial</dcmi:description>
+			<dcmi:publisher>CCLRC</dcmi:publisher>
+			<dcmi:creator>Rob Allan</dcmi:creator>
+			<dcmi:publisher>Portsmouth</dcmi:publisher>
+			<dcmi:creator>Mark Baker</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/Portals/portals</dcmi:identifier>
+			<dcmi:description>Portals and Portlets 2003 workshop</dcmi:description>
+			<dcmi:publisher>CCLRC</dcmi:publisher>
+			<dcmi:creator>Rob Allan</dcmi:creator>
+			<dcmi:publisher>Portsmouth</dcmi:publisher>
+			<dcmi:creator>Mark Baker</dcmi:creator>
+			<dcmi:publisher>Hull</dcmi:publisher>
+			<dcmi:creator>Chris Awre</dcmi:creator>
+			<dcmi:publisher>Lancaster</dcmi:publisher>
+			<dcmi:creator>Adrian Fish</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/Technology/index.shtml</dcmi:identifier>
+			<dcmi:description>Portal Technology for ReDRESS</dcmi:description>
+			<dcmi:publisher>ReDRESS</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/Sakai/Tools/index.shtml</dcmi:identifier>
+			<dcmi:description>Development of Portlet Tools for Sakai</dcmi:description>
+			<dcmi:publisher>Sakai VRE Demonstrator Project</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+<content>
+			<dcmi:description>Rob Allan, Daresbury Laboratory - Introduction - Portals and VREs for Social Research</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/vre/roballan/session1/session1imp.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>Mark Baker, University of Portsmouth - Introduction to Portals and Portlets 
+</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/vre/mark_baker/session2/session2imp.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>Rob Allan, Daresbury Laboratory - Sakai VRE Demonstrator</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/vre/roballan/session3/session3imp.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator>
+		</content><content>
+			<dcmi:description>Rob Allan, Daresbury Laboratory - VREs for e-Social Science</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/vre/roballan/session4and5/session4and5.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator>
+		</content><content>
+			<dcmi:description>Paul Shabajee, University of Bristol - iugo</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/vre/Paul Shabajee/session6imp.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator>
+		</content><content>
+			<dcmi:description>Francisco Queiros Pinto, University of Oxford - N-tier Authentication Use-Cases within E-Research Environments</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/vre/francisco/session7imp/session7imp.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator>
+		</content><content>
+			<dcmi:description>Chuck Severence, University of Michigan - Sakai Update VRE Workshop</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/vre/chuckseverence/session8/session8.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator>
+		</content><content>
+			<dcmi:description>John Norman , University of Cambridge - Sakai VRE for Educational Research</dcmi:description>
+			<dcmi:identifier>http://redress.lancs.ac.uk/vre/John Norman/session9imp.html</dcmi:identifier>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Paul Dolby</dcmi:creator>
+		</content>
+<content>
+			<dcmi:description>Managing information with D Space and VREs</dcmi:description> 
+			<dcmi:identifier>http://redress.lancs.ac.uk//resources/Patrick%20Carmichael/Managing%20information%20with%20D-Space%20and%20VREs/Managing-information-with-D-Space-and-VREs.html</dcmi:identifier> 
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Patrick Carmichael</dcmi:creator>
+		</content>
+	</category>
+
+	<category name="High Performance Computing" description="Parallel computing and numerical algorithms to tackle social science grand challenges.">
+
+		
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/Beowulf/beowulf_doc</dcmi:identifier>
+			<dcmi:description>Beowulf Computers</dcmi:description>
+			<dcmi:publisher>UKHEC</dcmi:publisher>
+			<dcmi:creator>R.J. Allan</dcmi:creator>
+<dcmi:creator>S.J. Andrews</dcmi:creator>
+<dcmi:creator>M.F. Guest</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/tools_survey/tools_doc</dcmi:identifier>
+			<dcmi:description>Parallel Programming Tools</dcmi:description>
+			<dcmi:publisher>CCLRC</dcmi:publisher>
+			<dcmi:creator>R.J. Allan</dcmi:creator>
+<dcmi:creator>J. Heggarty</dcmi:creator>
+<dcmi:creator>M. Goodman</dcmi:creator>
+<dcmi:creator>R.R. Ward</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/CQeSSR2.ppt</dcmi:identifier>
+			<dcmi:description>
+An OGSA Component-Based Approach to Middleware for Statistical Modelling</dcmi:description>
+			<dcmi:publisher>Lancaster</dcmi:publisher>
+			<dcmi:creator>Rob Crouchley</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Applied Numerical Libraries for Parallel Software</dcmi:description> <dcmi:identifier>http://www.ukhec.ac.uk/publications/reports/numlib.pdf</dcmi:identifier>
+			<dcmi:publisher>UKHEC</dcmi:publisher>
+			<dcmi:creator>Rob Allan</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>HPC Technology Roadmap</dcmi:description> <dcmi:identifier>http://www.enacts.org/hpcroadmap.pdf</dcmi:identifier>
+			<dcmi:publisher>ENACTS</dcmi:publisher>
+			<dcmi:creator>Jan Fagerstrom</dcmi:creator>
+<dcmi:creator>Torgny Faxen</dcmi:creator>
+<dcmi:creator>Peter Munger</dcmi:creator>
+<dcmi:creator>Anders Ynnerman</dcmi:creator>
+<dcmi:creator>J-C Desplat</dcmi:creator>
+<dcmi:creator>Filippo De Angelis</dcmi:creator>
+<dcmi:creator>Francesco Mercuri</dcmi:creator>
+<dcmi:creator>Marzio Rosi</dcmi:creator>
+<dcmi:creator>Antonio Sgamellotti</dcmi:creator>
+<dcmi:creator>Francesco Tarantelli</dcmi:creator>
+<dcmi:creator>Giuseppe Vitillaro</dcmi:creator>
+		</content>
+		    <content>
+		    <dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/jennifer/asw.html</dcmi:identifier>
+			<dcmi:description>HSL and an Introduction to Sparse Linear Systems.</dcmi:description>
+			
+			<dcmi:publisher>Rutherford Appleton Laboratory</dcmi:publisher>
+			<dcmi:creator>Jennifer A. Scott </dcmi:creator>
+		</content>
+	</category>
+
+	<category name="Security and Confidentiality" description="Issues important to data handling and access to remote facilities.">
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_elliot2.pdf</dcmi:identifier>
+			<dcmi:description>Confidentiality and the Grid</dcmi:description>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Mark Elliot</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_jones.pdf</dcmi:identifier>
+			<dcmi:description>Access,
+Authentication and Accounting</dcmi:description>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Mike Jones</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Grid Security</dcmi:description>
+			<dcmi:identifier>http://www.globus.org/research/security.html</dcmi:identifier>
+			<dcmi:publisher>Globus Team</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+	</category>
+
+	<category name="Grid and Web Services" description="Issues and technology for distributed computing and database access.">
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/Grid/index.shtml</dcmi:identifier>
+			<dcmi:description>What is the Grid?</dcmi:description>
+			<dcmi:publisher>ReDReSS Project</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/Grid/ncess_ahm_allan_pickles.pdf</dcmi:identifier>
+			<dcmi:description>Computational Grid Middleware - an overview of current technology and future trends</dcmi:description>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Stephen Pickles</dcmi:creator>
+			<dcmi:publisher>CCLRC</dcmi:publisher>
+			<dcmi:creator>Rob Allan</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Globus Presentations</dcmi:description>
+			<dcmi:identifier>http://www.globus.org/presentations</dcmi:identifier>
+			<dcmi:publisher>Globus Team</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Grid Resource Management</dcmi:description>
+			<dcmi:identifier>http://www.globus.org/research/resource-management.html</dcmi:identifier>
+			<dcmi:publisher>Globus Team</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Grid Information Services</dcmi:description>
+			<dcmi:identifier>http://www.globus.org/research/information-services.html</dcmi:identifier>
+			<dcmi:publisher>Globus Team</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.ncess.ac.uk/events/conference/past/ncess_ahm_hewitt.pdf</dcmi:identifier>
+			<dcmi:description>Introduction to the National Grid Service</dcmi:description>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Terry Hewitt</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/WebServices/webServices_doc</dcmi:identifier>
+			<dcmi:description>Web Services Programming Introduction</dcmi:description>
+			<dcmi:publisher>CCLRC</dcmi:publisher>
+			<dcmi:creator>Rob Allan</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/WebServices/JoyOfWebServices.ppt</dcmi:identifier>
+			<dcmi:description>Web Services Tutorial</dcmi:description>
+			<dcmi:publisher>Manchester</dcmi:publisher>
+			<dcmi:creator>Mark McKeown</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description>Hosting Web and Grid Services</dcmi:description> <dcmi:identifier></dcmi:identifier>
+			<dcmi:publisher>Portsmouth</dcmi:publisher>
+			<dcmi:creator>Hong Ong</dcmi:creator>
+			<dcmi:publisher>Westminster</dcmi:publisher>
+			<dcmi:creator>Ariel Goyeneche</dcmi:creator> </content>
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ReDRESS/CQeSSR2.ppt</dcmi:identifier>
+			<dcmi:description>
+An OGSA Component-Based Approach to Middleware for Statistical Modelling</dcmi:description>
+			<dcmi:publisher>Lancaster</dcmi:publisher>
+			<dcmi:creator>Rob Crouchley</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://tyne.dl.ac.uk/ETF/public/WebServices/classes.html</dcmi:identifier>
+			<dcmi:description>Service Classification</dcmi:description>
+			<dcmi:publisher>CCLRC</dcmi:publisher>
+			<dcmi:creator>Rob Allan</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:identifier>http://www.grids.ac.uk/Grid/index.shtml</dcmi:identifier>
+			<dcmi:description>Grid Archive</dcmi:description>
+			<dcmi:publisher>CCLRC</dcmi:publisher>
+			<dcmi:creator>Rob Allan</dcmi:creator>
+		</content>
+		<content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/roballan/talk1/talk1.html</dcmi:identifier>
+			<dcmi:description>The UK National Grid Service</dcmi:description>
+			<dcmi:publisher>CCLRC</dcmi:publisher>
+			<dcmi:creator>Rob Allan and Rob Crouchley</dcmi:creator>
+		</content>
+		<content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/asw/6thapril/roballan/talk2/talk2.html</dcmi:identifier>
+			<dcmi:description>How to Use the Grid</dcmi:description>
+			<dcmi:publisher>CCLRC e-Science Centre and JISC Common Framework Working Group</dcmi:publisher>
+			<dcmi:creator>Rob Allan</dcmi:creator>
+		</content>
+<content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/growl/growl.html</dcmi:identifier>
+			<dcmi:description>Grid Resources on a Workstation Library (GROWL) Session Management – an Overview</dcmi:description>
+			<dcmi:publisher>Lancaster University</dcmi:publisher>
+			<dcmi:creator>Daniel Grose</dcmi:creator>
+		</content>
+<content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/resources/Tony_Hey/originofgridcern2003/session1imp.html</dcmi:identifier>
+			<dcmi:description>Origins of the Grid</dcmi:description>
+			<dcmi:publisher>Cern / Lancaster University</dcmi:publisher>
+			<dcmi:creator>Tony Hey</dcmi:creator>
+		</content>
+<content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A/session1imp.html</dcmi:identifier>
+			<dcmi:description>Grid Technology A</dcmi:description>
+			<dcmi:publisher>Cern / Lancaster University</dcmi:publisher>
+			<dcmi:creator>Geoffrey Fox</dcmi:creator>
+		</content>
+<content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A_part2/session3imp.html</dcmi:identifier>
+			<dcmi:description>Grid Technology A Part 2</dcmi:description>
+			<dcmi:publisher>Cern / Lancaster University</dcmi:publisher>
+			<dcmi:creator>Geoffrey Fox</dcmi:creator>
+		</content>
+<content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A_part3/session4imp.html</dcmi:identifier>
+			<dcmi:description>Grid Technology A Part 3</dcmi:description>
+			<dcmi:publisher>Cern / Lancaster University</dcmi:publisher>
+			<dcmi:creator>Geoffrey Fox</dcmi:creator>
+		</content>
+<content>
+			<dcmi:identifier>http://redress.lancs.ac.uk/resources/Tony_Hey/TheFutureoftheGrid-e-Sciencetoe-Business/session5imp.html</dcmi:identifier>
+			<dcmi:description>Origins of the Grid</dcmi:description>
+			<dcmi:publisher>Cern / Lancaster University</dcmi:publisher>
+			<dcmi:creator>Tony Hey</dcmi:creator>
+		</content>
+
+	</category>
+
+	<category name="Network Technology" description="Material related to using high-speed networks to facilitate e-Social Science">
+
+		<content>
+			<dcmi:description>Networks for Non Networkers</dcmi:description> <dcmi:identifier>http://grid.ucl.ac.uk/NFNN.html</dcmi:identifier>
+			<dcmi:publisher>UCL</dcmi:publisher>
+			<dcmi:creator>Various</dcmi:creator>
+		</content>
+
+		<content>
+			<dcmi:description></dcmi:description>
+			<dcmi:identifier></dcmi:identifier>
+			<dcmi:publisher></dcmi:publisher>
+			<dcmi:creator></dcmi:creator>
+		</content>
+	</category>
+
+	<category name="Databases" description="Relational and XML database technologies and their use.">
+
+		<content>
+			<dcmi:description></dcmi:description>
+			<dcmi:identifier></dcmi:identifier>
+			<dcmi:publisher></dcmi:publisher>
+			<dcmi:creator></dcmi:creator>
+		</content>
+	</category>
+
+</catalogue>

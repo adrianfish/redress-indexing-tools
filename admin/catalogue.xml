@@ -1,0 +1,2339 @@
+
+<?xml version="1.0"?>
+<catalogue>
+	<category name="High Performance Computing" description="Parallel computing and numerical algorithms to tackle social science grand challenges.">
+		<content identifier="http://www-1.ibm.com/grid/about_grid/faq.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>Grid Frequently Asked Questions.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.649050645873798</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/faq.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>Grid Frequently Asked Questions.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.enacts.org/hpcroadmap.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>High Performance Computing</categories>
+				<description>HPC Technology Roadmap</description>
+				<creators>Fagerstrom, Jan|Faxen, Torgny|Munger, Peter|Ynnerman, Anders|Desplat, J-C|De Angelis, Filippo|Mercuri, Francesco|Rosi, Marzio|Sgamellotti, Antonio|Tarantelli, Francesco|Vitilla, Guiseppe</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.608401345654529</redress_difficulty>
+				<identifier>http://www.enacts.org/hpcroadmap.pdf</identifier>
+				<format>text/html</format>
+				<publishers>ENACTS</publishers>
+				<title>HPC Technology Roadmap.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/benefits.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>IBM's view of the benifits of the Grid.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.650202270949137</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/benefits.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>Grid Benefits.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/ibm_grid/index.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>An explaination of IBM's role in Grid Computing.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.647920596790214</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/ibm_grid/index.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>IBM and Grid.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/CQeSSR2.ppt">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-12</date>
+				<categories>Examples from e-Social Science Projects|High Performance Computing|Grid and Web Services</categories>
+				<description>An OGSA Component-Based Approach to Middleware for Statistical Modelling</description>
+				<creators>Crouchley, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/CQeSSR2.ppt</identifier>
+				<format>text/html</format>
+				<publishers>University of Lancaster</publishers>
+				<title>An OGSA Component-Based Approach to Middleware for Statistical Modelling.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/index.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>IBM's Explaination of Grid Computing.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.646343766704189</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/index.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>About Grid Computing.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/Beowulf/beowulf_doc">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>High Performance Computing</categories>
+				<description>Beowulf Computers</description>
+				<creators>Allan, Rob|Andrews, S|Guest, M</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.601297383915097</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/Beowulf/beowulf_doc</identifier>
+				<format>text/html</format>
+				<publishers>UKHEC</publishers>
+				<title>Beowulf Computers.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/jennifer/asw.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-22</date>
+				<categories>Agenda Setting Workshops|High Performance Computing</categories>
+				<description>Jennifer A. Scott, Rutherford Appleton Laboratory - HSL and an Introduction to Sparse Linear Systems.</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.640354475656246</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/jennifer/asw.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>HSL and an Introduction to Sparse Linear Systems.
+</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://www.ukhec.ac.uk/publications/reports/numlib.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>High Performance Computing</categories>
+				<description>Applied Numerical Libraries for Parallel Software</description>
+				<creators>Allan, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.473945429067523</redress_difficulty>
+				<identifier>http://www.ukhec.ac.uk/publications/reports/numlib.pdf</identifier>
+				<format>application/pdf</format>
+				<publishers>UKHEC</publishers>
+				<title>Applied Numerical Libraries for Parallel Software.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-128.ibm.com/developerworks/grid/library/gr-gt4mds/">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Software Development|High Performance Computing|Grid and Web Services</categories>
+				<description>This article introduces the Globus Monitoring and Discovery Service (MDS). It discusses the components that make up MDS and describes how other services typically interact with MDS in a grid environment. After reading this article, you should be able to configure the Globus MDS and register services, as well as other information providers with MDS. You'll learn how to aggregate information and how to configure multiple Index Services in an MDS hierarchy to form a grid Index Service.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.636567866155634</redress_difficulty>
+				<identifier>http://www-128.ibm.com/developerworks/grid/library/gr-gt4mds/</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>Grid in Action: Monitor and Discover Grid Services in an SOA/Web Services Environment.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/Grid/unit1.html">
+			<metadata>
+				<language>EN</language>
+				<subject>e-Science, Grid, Resources, Computing, Data Management</subject>
+				<date>2006-01-18</date>
+				<categories>Data Management|High Performance Computing|Grid and Web Services</categories>
+				<description>An Overview of Computational Grids. Covering topics such as the Globus Grid Toolkit, e-Science Grid infrastructure and web and grid services.</description>
+				<creators>Allan, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.586994050385855</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/Grid/unit1.html</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Computational Grid</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/what_is.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>IBM's Explaination of Grid Computing.
+</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.647939641602142</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/what_is.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>What is Grid Computing.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/tools_survey/tools_doc">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>High Performance Computing</categories>
+				<description>Parallel Programming Tools</description>
+				<creators>Allan, Rob|Heggarty, J|Gooman, M|Ward, R</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.608708531450032</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/tools_survey/tools_doc</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Parallel Programming Tools.</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Examples from e-Social Science Projects" description="Material about pilot demonstrator projects and examples.">
+		<content identifier="http://www.ccsr.ac.uk/research/griddisclosure.htm">
+			<metadata>
+				<language>EN</language>
+				<subject>CCSR, cathie marsh centre, census microdata, survey research, small area microdata, SARs, 2001 census, marie curie fellowships, marie curie training centre</subject>
+				<date>2006-01-18</date>
+				<categories>Examples from e-Social Science Projects|Grid and Web Services</categories>
+				<description>This is a research project carried out by the Cathie Marsh Centre for Census and Survey Reseach at the University of Manchester.  It contains links to publications, courses, events and consultancy.</description>
+				<creators>Elliot, Mark|Pickles, Stephen|Purdam, Kingsley|Smith, Duncan</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.590192075</redress_difficulty>
+				<identifier>http://www.ccsr.ac.uk/research/griddisclosure.htm</identifier>
+				<format>text/html</format>
+				<publishers>University of Manchester</publishers>
+				<title>An Investigation of the Disclosure Risk Issues Posed by the GRID</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/CQeSSR2.ppt">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-12</date>
+				<categories>Examples from e-Social Science Projects|High Performance Computing|Grid and Web Services</categories>
+				<description>An OGSA Component-Based Approach to Middleware for Statistical Modelling</description>
+				<creators>Crouchley, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/CQeSSR2.ppt</identifier>
+				<format>text/html</format>
+				<publishers>University of Lancaster</publishers>
+				<title>An OGSA Component-Based Approach to Middleware for Statistical Modelling.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/lee/lee.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Examples from e-Social Science Projects|Agenda Setting Workshops</categories>
+				<description>Lee Gillam, Department of Computing, University of Surrey - Analysis of Non-stochastic Time Varying Data - FINGRID.</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.639172277682224</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/lee/lee.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Analysis of Non-stochastic Time Varying Data - FINGRID.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.epcc.ed.ac.uk/projects/inwa/">
+			<metadata>
+				<language>EN</language>
+				<subject>GRID, global data, training, education</subject>
+				<date>2006-01-18</date>
+				<categories>Examples from e-Social Science Projects|Grid and Web Services</categories>
+				<description>The INWA project has been using existing Grid technologies to allow researchers to analyse commercial data located at sites in the UK, Australia. Recently the project has been extended to include a site in China.</description>
+				<creators>EPCC</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.414292865589706</redress_difficulty>
+				<identifier>http://www.epcc.ed.ac.uk/projects/inwa/</identifier>
+				<format>text/html</format>
+				<publishers>University of Edinburgh</publishers>
+				<title>INWA - Informing Business & Regional Policy : Grid-enabled fusion of global data and local knowledge</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://www.nesc.ac.uk/action/projects/project_action.cfm?title=249">
+			<metadata>
+				<language>EN</language>
+				<subject>national e-science centre,nesc,e-science,esi,e-science institute,e-Science Projects,industrial projects, projects</subject>
+				<date>2006-01-19</date>
+				<categories>Examples from e-Social Science Projects</categories>
+				<description>Information on e-Science industrial Projects. Recent trends in e-science towards seamless interfacing between remote data locations and remote high performace computing clusters have not yet been widely applied in economics. This pilot project aims to measure and demonstrate the effectiveness of such a system applied to the micro-econometric analysis of the welfare of ethinic minority groups in the UK.</description>
+				<creators>NESC</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.6666</redress_difficulty>
+				<identifier>http://www.nesc.ac.uk/action/projects/project_action.cfm?title=249</identifier>
+				<format>text/html</format>
+				<publishers>NESC</publishers>
+				<title>e-Science Project Information: Grid-Enabled Micro-Econometric Data Analysis</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.csd.abdn.ac.uk/research/fearg/">
+			<metadata>
+				<language>EN</language>
+				<subject>Environmental Modelling, Grid, social sciences</subject>
+				<date>2006-01-25</date>
+				<categories>Examples from e-Social Science Projects</categories>
+				<description>The FEARLUS-G project aims to explore the application of emerging Grid technologies within the social sciences, through deployment of an existing land-use modelling tool into the Grid context. The project brings together experts in land-use modelling with computer scientists who have experience in Grid and World-Wide Web technologies. </description>
+				<creators>Edwards, Pete|Preece, Alun|Pignotti, Edoardo|Gotts, Nick|Polhill, Gary</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.551022189490664</redress_difficulty>
+				<identifier>http://www.csd.abdn.ac.uk/research/fearg/</identifier>
+				<format>text/html</format>
+				<publishers>University of Aberdeen</publishers>
+				<title>The FEARLUS-G Project Home Page.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/markbirkin/markbirkin.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Examples from e-Social Science Projects|Agenda Setting Workshops</categories>
+				<description>Mark Birkin, Node Director, University of Leeds - MOSES: Modelling and Simulation for e-Social Science.</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.638007278238787</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/markbirkin/markbirkin.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>MOSES: Modelling and Simulation for e-Social Science.
+</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Agenda Setting Workshops" description="Ongoing JISC funded workshops.">
+		<content identifier="http://www.mrl.nott.ac.uk/%7Eaxc/eSocial_Science_Workshop.htm">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Agenda Setting Workshops</categories>
+				<description>Digital Records and Representations of Human Activities</description>
+				<creators>Rodden, Tom</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.641554220152093</redress_difficulty>
+				<identifier>http://www.mrl.nott.ac.uk/%7Eaxc/eSocial_Science_Workshop.htm</identifier>
+				<format>text/html</format>
+				<publishers>University of Nottingham</publishers>
+				<title>Digital Records and Representations of Human Activities Workshop.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/roballan/talk2/talk2.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Agenda Setting Workshops|Grid and Web Services</categories>
+				<description>Rob Allan, CCLRC e-Science Centre and JISC Common Framework Working Group - How to Use the Grid.</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.635727528016603</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/roballan/talk2/talk2.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>How to Use the Grid.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/jennifer/asw.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-22</date>
+				<categories>Agenda Setting Workshops|High Performance Computing</categories>
+				<description>Jennifer A. Scott, Rutherford Appleton Laboratory - HSL and an Introduction to Sparse Linear Systems.</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.640354475656246</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/jennifer/asw.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>HSL and an Introduction to Sparse Linear Systems.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/lee/lee.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Examples from e-Social Science Projects|Agenda Setting Workshops</categories>
+				<description>Lee Gillam, Department of Computing, University of Surrey - Analysis of Non-stochastic Time Varying Data - FINGRID.</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.639172277682224</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/lee/lee.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Analysis of Non-stochastic Time Varying Data - FINGRID.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/robprocter/Presentation1.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Motivation and Background|Agenda Setting Workshops</categories>
+				<description>An overview of NCeSS.</description>
+				<creators>Procter, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.647265604475207</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/robprocter/Presentation1.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>NCESS</publishers>
+				<title>An overview of NCeSS.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/document-pool/Abstract_K.Ahmad_5thoct2005asw.doc">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-12</date>
+				<categories>Agenda Setting Workshops|Semantics, Knowledge and Information Management</categories>
+				<description>5th October 2005 Agenda Setting Workshop - K. Ahmad, University of Surrey, Abstract - The quality of social interaction: Towards an automatic analysis of sentiments in informative and persuasive texts.</description>
+				<creators>Ahmad, Khurshid</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/document-pool/Abstract_K.Ahmad_5thoct2005asw.doc</identifier>
+				<format>text/html</format>
+				<publishers>University of Surrey</publishers>
+				<title>The quality of social interaction: Towards an automatic analysis of sentiments in informative and persuasive texts (Abstract).</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/roballan/talk1/talk1.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Agenda Setting Workshops|Grid and Web Services</categories>
+				<description>Rob Allan and Rob Crouchley - The UK National Grid Service.</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.636859138400897</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/roballan/talk1/talk1.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>The UK National Grid Service.
+</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/robcrouchley/robcrouchley.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Motivation and Background|Agenda Setting Workshops</categories>
+				<description>A Narrow and Personal View on Quantitative Methods and e-Social Science, Without an Agenda.</description>
+				<creators>Halfpenny, Peter|Procter, Rob|Crouchley, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.6489337609074</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/robcrouchley/robcrouchley.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>NCeSS|NCeSS|University of Lancaster</publishers>
+				<title>A Narrow and Personal View on Quantitative Methods and e-Social Science, Without an Agenda.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/markbirkin/markbirkin.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Examples from e-Social Science Projects|Agenda Setting Workshops</categories>
+				<description>Mark Birkin, Node Director, University of Leeds - MOSES: Modelling and Simulation for e-Social Science.</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.638007278238787</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/markbirkin/markbirkin.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>MOSES: Modelling and Simulation for e-Social Science.
+</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Social Shaping" description="Social Shaping of e-Science.">
+		<content identifier="http://www.ncess.ac.uk/docs/social_shaping_perspectives.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Social Shaping</categories>
+				<description>ESRC Consultancy Report</description>
+				<creators>Woolgar, Steve</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.477095062298467</redress_difficulty>
+				<identifier>http://www.ncess.ac.uk/docs/social_shaping_perspectives.pdf</identifier>
+				<format>application/pdf</format>
+				<publishers>NCESS</publishers>
+				<title>Social Shaping Perspectives on e-Science and e-Social Science: the case for research
+support.</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://www.sosig.ac.uk/iriss/papers/paper16.htm">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-18</date>
+				<categories>Social Shaping</categories>
+				<description>IRISS '98: Conference Papers.</description>
+				<creators>Hine, Christine</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.546904829277179</redress_difficulty>
+				<identifier>http://www.sosig.ac.uk/iriss/papers/paper16.htm</identifier>
+				<format>text/html</format>
+				<publishers>University of Bristol</publishers>
+				<title>IRISS '98: Conference Papers.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.soc.surrey.ac.uk/christine_hine.htm">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-12</date>
+				<categories>Social Shaping</categories>
+				<description>Social Shaping of e-Science</description>
+				<creators>Hine, Christine</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://www.soc.surrey.ac.uk/christine_hine.htm</identifier>
+				<format>text/html</format>
+				<publishers>University of Surrey</publishers>
+				<title>Social Shaping of e-Science.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.socresonline.org.uk/7/2/hine.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Social Shaping</categories>
+				<description>Cyberscience and Social Boundaries: the Implications of Laboratory Talk on the Internet.</description>
+				<creators>Hine, Christine</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.620872979045784</redress_difficulty>
+				<identifier>http://www.socresonline.org.uk/7/2/hine.html</identifier>
+				<format>text/html</format>
+				<publishers>Sociological Research Online</publishers>
+				<title>Cyberscience and Social Boundaries: the Implications of Laboratory Talk on the Internet.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.soc.surrey.ac.uk/pdfs/hine_oii.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Social Shaping</categories>
+				<description>Systematics as Cyberscience: The Role of ICTs in the Working Practices of Taxonomy.</description>
+				<creators>Hine, Christine</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.515157443587531</redress_difficulty>
+				<identifier>http://www.soc.surrey.ac.uk/pdfs/hine_oii.pdf</identifier>
+				<format>application/pdf</format>
+				<publishers>University of Surrey</publishers>
+				<title>Systematics as Cyberscience: The Role of ICTs in the Working Practices of Taxonomy.</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Data Management" description="Data Management applied to qualitative, quantitative and combined data.">
+		<content identifier="http://www.enacts.org/datamanagement.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Data Management</categories>
+				<description>Data Management in HPC.</description>
+				<creators>Erbacci, Giovanni|Sbrighi, Marco|Crosbie, Audrey|McGloughlin, Carole</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.621170798139774</redress_difficulty>
+				<identifier>http://www.enacts.org/datamanagement.pdf</identifier>
+				<format>text/html</format>
+				<publishers>ENACTS</publishers>
+				<title>Data Management in HPC Report.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-128.ibm.com/developerworks/grid/library/gr-feddata/">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Data Management|Databases</categories>
+				<description>Explore the architectural gaps that exist between the WebSphere&reg; Information Integrator and a data grid built using the Open Grid Services Architecture Data Access and Integration (OGSA-DAI). Then download Grid Wrapper for WebSphere Information Integrator from alphaWorks. The authors show you how to develop a grid wrapper to work with WebSphere Information Integrator to provide database federation and data transparency. Descriptions of the existing structure and of the architecture designed to fill the gaps are included.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.635419006964935</redress_difficulty>
+				<identifier>http://www-128.ibm.com/developerworks/grid/library/gr-feddata/</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>Bridging the Integration Gap, Part 1: Federating Grid Data.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.ogsadai.org.uk/courses/">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Data Management</categories>
+				<description>OGSA-DAI Courses</description>
+				<creators>Fernandes, Alvaro|Various|Kleese van Dam, Kerstin|Russell, Celia|Cole, Keith|Jones, Mike|Pickles, Stephen|Riding, M|Roy, Kevin|Sensier, M|Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.62170902686021</redress_difficulty>
+				<identifier>http://www.ogsadai.org.uk/courses/</identifier>
+				<format>text/html</format>
+				<publishers>University of Manchester|Globus Team|CCLRC|University of Manchester|University of Manchester|University of Manchester|University of Manchester|University of Manchester|University of Manchester|University of Manchester|OGSA-DAI</publishers>
+				<title>OGSA-DAI Courses.</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/Grid/unit1.html">
+			<metadata>
+				<language>EN</language>
+				<subject>e-Science, Grid, Resources, Computing, Data Management</subject>
+				<date>2006-01-18</date>
+				<categories>Data Management|High Performance Computing|Grid and Web Services</categories>
+				<description>An Overview of Computational Grids. Covering topics such as the Globus Grid Toolkit, e-Science Grid infrastructure and web and grid services.</description>
+				<creators>Allan, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.586994050385855</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/Grid/unit1.html</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Computational Grid</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/document-pool/WhatIsOGSADAI3.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Data Management</categories>
+				<description>Why use OGSA-DAI and OGSA-DQP for e-Social Science?</description>
+				<creators>Crouchley, Rob|Allan, Rob|Wang Dong, Xiao</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.299967953974991</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/document-pool/WhatIsOGSADAI3.pdf</identifier>
+				<format>application/pdf</format>
+				<publishers>University of Lancaster|CCLRC</publishers>
+				<title>Why use OGSA-DAI and OGSA-DQP for e-Social Science?</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Portals and Related Technology" description="User interfaces for e-Science projects.">
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/Portals/portals">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Portals and Related Technology</categories>
+				<description>Portals and Portlets 2003 workshop</description>
+				<creators>Allan, Rob|Baker, Mark|Awre, Chris|Fish, Adrian</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.604378697619543</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/Portals/portals</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC|University of Portsmouth|University of Hull|University of Lancaster</publishers>
+				<title>Portals and Portlets 2003 workshop.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/Technology/index.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Portals and Related Technology</categories>
+				<description>Portal Technology for ReDReSS</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.602163447427642</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/Technology/index.shtml</identifier>
+				<format>text/html</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Portal Technology for ReDReSS.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/vre/Paul Shabajee/session6imp.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Portals and Related Technology</categories>
+				<description>Paul Shabajee, University of Bristol - iugo</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.600380137626702</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/vre/Paul Shabajee/session6imp.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>iugo.</title>
+			<metadata>
+		</content>
+		<content identifier="http://dsg.port.ac.uk/events/workshops/VRE05/talks/Matthew%20J.%20Dovey.ppt">
+			<metadata>
+				<language>EN</language>
+				<subject>WSRP, WebServices, Portal, Portlet</subject>
+				<date>2006-01-30</date>
+				<categories>Portals and Related Technology|Grid and Web Services</categories>
+				<description>WSRP is the SOAP standard for allowing portals to access remote portlets. The currently implemented version of this standard is 1.0, but 2.0 is now in the final drafts. This talk will give an overview of the capabilities of WSRP 1.0, what is planned for WSRP 2.0 and what features have been defered until after 2.0. It will also summarise the relationship between WSRP and the Java Portlet APIs.</description>
+				<creators>Dovey, Matthew</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://dsg.port.ac.uk/events/workshops/VRE05/talks/Matthew%20J.%20Dovey.ppt</identifier>
+				<format>text/html</format>
+				<publishers>University of Oxford|University of Portsmouth</publishers>
+				<title>WSRP Overview and Future.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/vre/roballan/session4and5/session4and5.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Portals and Related Technology</categories>
+				<description>Rob Allan, Daresbury Laboratory - VREs for e-Social Science</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.600732804647835</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/vre/roballan/session4and5/session4and5.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>VREs for e-Social Science.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/vre/roballan/session3/session3imp.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Portals and Related Technology</categories>
+				<description>Rob Allan, Daresbury Laboratory - Sakai VRE Demonstrator</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.601087454403854</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/vre/roballan/session3/session3imp.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Sakai VRE Demonstrator.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/Portals/Introduction%20to%20Grid%20Portals.ppt">
+			<metadata>
+				<language>EN</language>
+				<subject>Portals, Grid, Sakai, WSRP, JSR-168</subject>
+				<date>2006-01-18</date>
+				<categories>Portals and Related Technology</categories>
+				<description>This tutorial looks at Grid portals, which are Web-based facilities that provide a personalised, single point of access to Grid resources that support the end user in one or more tasks. From this tutorial, you will learn: What is a Grid portal and what kind of roles will it play in the Grid?, first-generation Grid portals,  second generation Grid portals, 
+the features and limitations of first generation Grid portals, the features and benefits of second generation Grid portals.</description>
+				<creators>Allan, Rob</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/Portals/Introduction%20to%20Grid%20Portals.ppt</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Portals Tutorial.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/vre/John Norman/session9imp.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Portals and Related Technology</categories>
+				<description>John Norman , University of Cambridge - Sakai VRE for Educational Research</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.599333888452855</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/vre/John Norman/session9imp.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Sakai VRE for Educational Research.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/vre/roballan/session1/session1imp.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Portals and Related Technology</categories>
+				<description>Rob Allan, Daresbury Laboratory - Introduction - Portals and VREs for Social Research</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.601802760915373</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/vre/roballan/session1/session1imp.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Introduction - Portals and VREs for Social Research.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk//resources/Patrick%20Carmichael/Managing%20information%20with%20D-Space%20and%20VREs/Managing-information-with-D-Space-and-VREs.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Semantics, Knowledge and Information Management|Portals and Related Technology</categories>
+				<description>Managing information with D Space and VREs</description>
+				<creators>Carmichel, Patrick</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.620623072516825</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk//resources/Patrick%20Carmichael/Managing%20information%20with%20D-Space%20and%20VREs/Managing-information-with-D-Space-and-VREs.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Managing information with D Space and VREs.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/vre/mark_baker/session2/session2imp.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Portals and Related Technology</categories>
+				<description>Mark Baker, University of Portsmouth - An Introduction  to Portals and Portlets
+</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.601444101557704</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/vre/mark_baker/session2/session2imp.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>An Introduction  to Portals and Portlets.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/Sakai/Tools/index.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-12</date>
+				<categories>Portals and Related Technology</categories>
+				<description>Development of Portlet Tools for Sakai</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/Sakai/Tools/index.shtml</identifier>
+				<format>text/html</format>
+				<publishers>Sakai VRE Demonstrator Project</publishers>
+				<title>Development of Portlet Tools for Sakai.</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://dsg.port.ac.uk/events/workshops/VRE05/talks/Xiaobo%20Yang.ppt">
+			<metadata>
+				<language>EN</language>
+				<subject>WSRP,Sakai,WSRP4J,Portel,Portlets</subject>
+				<date>2006-01-30</date>
+				<categories>Portals and Related Technology|Grid and Web Services</categories>
+				<description>WSRP highlights the approach to integrate both business logic and user interfaces. By standardising presentation-oriented web services, WSRP makes it possible to construct web portals in "plug-and-play" mode. In this talk, the WSRP support of selected open-source portal frameworks and the development experience of producing a WSRP consumer for Sakai will be reported. We will report on WSRP support for the eXo platform, Liferay, StringBeans and uPortal. WSRP4J, which is not a portal framework but a reference implementation of the WSRP 1.0 specification and the basis of WSRP support in many portal frameworks, is also discussed. Development experience of a servlet-based Sakai WSRP consumer built on top of ProxyPortlet, a WSRP4J consumer, will then follow.</description>
+				<creators>Yang, Xiaobo|Dong Wang, Xiao|Allan Rob</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://dsg.port.ac.uk/events/workshops/VRE05/talks/Xiaobo%20Yang.ppt</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC, University of Portsmouth</publishers>
+				<title>Experiences with WSRP Development and Testing.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/vre/chuckseverence/session8/session8.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Portals and Related Technology</categories>
+				<description>Chuck Severence, University of Michigan - Sakai Update VRE Workshop</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.599680693842229</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/vre/chuckseverence/session8/session8.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Sakai Update VRE Workshop.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/vre/francisco/session7imp/session7imp.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Portals and Related Technology</categories>
+				<description>Francisco Queiros Pinto, University of Oxford - N-tier Authentication Use-Cases within E-Research Environments</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.600029438818831</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/vre/francisco/session7imp/session7imp.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>N-tier Authentication Use-Cases within E-Research Environments.</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Visualisation" description="Applying visualisation and VR techniques to better understanding of data">
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://www.ukhec.ac.uk/publications/reports/guienv.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Visualisation</categories>
+				<description>Graphical User Environments for Scientific Computing</description>
+				<creators>Allan, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.461041676700859</redress_difficulty>
+				<identifier>http://www.ukhec.ac.uk/publications/reports/guienv.pdf</identifier>
+				<format>application/pdf</format>
+				<publishers>UKHEC</publishers>
+				<title>Graphical User Environments for Scientific Computing
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.ukhec.ac.uk/publications/reports/VR_Briefing.ps.gz">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-12</date>
+				<categories>Visualisation</categories>
+				<description>Scientific Applications of Visualisation, VR and HPC</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://www.ukhec.ac.uk/publications/reports/VR_Briefing.ps.gz</identifier>
+				<format>text/html</format>
+				<publishers>UKHEC</publishers>
+				<title>Scientific Applications of Visualisation, VR and HPC</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="UK e-Science Programme" description="Links to material and support from the RCUK and JISC e-Science Programme.">
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/Presentations.html#agenda6th">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>UK e-Science Programme</categories>
+				<description>Agenda Setting Workshop - Lancaster 6th April 2005 Presentations</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.623943248770042</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/Presentations.html#agenda6th</identifier>
+				<format>text/html</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Agenda Setting Workshop - Lancaster 6th April 2005 Presentations.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.esrc.ac.uk/esrccontent/researchfunding/">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-21</date>
+				<categories>UK e-Science Programme</categories>
+				<description>Economic and Social Research Council (ESRC)</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.628896202982732</redress_difficulty>
+				<identifier>http://www.esrc.ac.uk/esrccontent/researchfunding/</identifier>
+				<format>text/html</format>
+				<publishers>ESRC</publishers>
+				<title>The ESRC Info Centre - Funding Opportunities.</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Software Development" description="Issues of best practice and management.">
+		<content identifier="http://www.ukhec.ac.uk/publications/guides/fortran95.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Software Development</categories>
+				<description>Fortran 95 for Fortran 77 Programmers</description>
+				<creators>Bush, Ian</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.428415301775518</redress_difficulty>
+				<identifier>http://www.ukhec.ac.uk/publications/guides/fortran95.pdf</identifier>
+				<format>application/pdf</format>
+				<publishers>UKHEC</publishers>
+				<title>Fortran 95 for Fortran 77 Programmers.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/CodeDev/codedev_doc">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Software Development</categories>
+				<description>Code Development Processes and Tools</description>
+				<creators>Antonioletti, M|Breitmoser, E</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.606004020658289</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/CodeDev/codedev_doc</identifier>
+				<format>text/html</format>
+				<publishers>UKHEC</publishers>
+				<title>Code Development Processes and Tools.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/SoftDev/index.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Software Development</categories>
+				<description>Software Development Best Practice</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.602665946671645</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/SoftDev/index.shtml</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Software Development Best Practice.</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://www.ukhec.ac.uk/publications/reports/estimation.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Software Development</categories>
+				<description>UKHEC Report on Software Estimation</description>
+				<creators>Various|Sloan, Terry</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.427982557468553</redress_difficulty>
+				<identifier>http://www.ukhec.ac.uk/publications/reports/estimation.pdf</identifier>
+				<format>application/pdf</format>
+				<publishers>Globus Team|UKHEC</publishers>
+				<title>UKHEC Report on Software Estimation.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-128.ibm.com/developerworks/grid/library/gr-gt4mds/">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Software Development|High Performance Computing|Grid and Web Services</categories>
+				<description>This article introduces the Globus Monitoring and Discovery Service (MDS). It discusses the components that make up MDS and describes how other services typically interact with MDS in a grid environment. After reading this article, you should be able to configure the Globus MDS and register services, as well as other information providers with MDS. You'll learn how to aggregate information and how to configure multiple Index Services in an MDS hierarchy to form a grid Index Service.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.636567866155634</redress_difficulty>
+				<identifier>http://www-128.ibm.com/developerworks/grid/library/gr-gt4mds/</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>Grid in Action: Monitor and Discover Grid Services in an SOA/Web Services Environment.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.ukhec.ac.uk/publications/reports/softtools.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Software Development</categories>
+				<description>Software Tools for HPC Applications</description>
+				<creators>Greenough, Chris</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.409198160724543</redress_difficulty>
+				<identifier>http://www.ukhec.ac.uk/publications/reports/softtools.pdf</identifier>
+				<format>application/pdf</format>
+				<publishers>UKHEC</publishers>
+				<title>Software Tools for HPC Applications.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.enacts.org/softwareefficiency.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Software Development</categories>
+				<description>Software Efficiency and Reusability</description>
+				<creators>Parallab, Bergen Center for Computational Science, University of Bergen (Norway)</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.605676625892804</redress_difficulty>
+				<identifier>http://www.enacts.org/softwareefficiency.pdf</identifier>
+				<format>text/html</format>
+				<publishers>UKHEC|ENACTS</publishers>
+				<title>Software Reusability and Efficiency
+. A Scientific and Technological Study.</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Grid and Web Services" description="Issues and technology for distributed computing and database access.">
+		<content identifier="http://www.grids.ac.uk/Grid/index.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-12</date>
+				<categories>Grid and Web Services</categories>
+				<description>Grid Archive</description>
+				<creators>Allan, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://www.grids.ac.uk/Grid/index.shtml</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Grid Archive.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/WebServices/webServices_doc">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Grid and Web Services</categories>
+				<description>Web Services Programming Introduction</description>
+				<creators>Various|Various|Various|Hewitt, Terry|Allan, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.61203457474608</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/WebServices/webServices_doc</identifier>
+				<format>text/html</format>
+				<publishers>Globus Team|Globus Team|Globus Team|University of Manchester|CCLRC</publishers>
+				<title>Web Services Programming Introduction.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A/session1imp.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Grid and Web Services</categories>
+				<description>Grid Technology A</description>
+				<creators>Fox, Geoffrey</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.647365837001465</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A/session1imp.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>CERN|University of Lancaster</publishers>
+				<title>Grid Technology A.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/benefits.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>IBM's view of the benifits of the Grid.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.650202270949137</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/benefits.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>Grid Benefits.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/ibm_grid/index.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>An explaination of IBM's role in Grid Computing.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.647920596790214</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/ibm_grid/index.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>IBM and Grid.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/Grid/index.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Grid and Web Services</categories>
+				<description>What is the Grid?</description>
+				<creators>Elliot, Mark|Jones, Mike|Various|Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.609397423910927</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/Grid/index.shtml</identifier>
+				<format>text/html</format>
+				<publishers>University of Manchester|University of Manchester|Globus Team|University of Lancaster</publishers>
+				<title>What is the Grid?</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/document-pool/An%20Overview%20of%20Internet%20and%20Grid%20Security%20-%20v2.doc">
+			<metadata>
+				<language>EN</language>
+				<subject>Distributed Environments, Security, Authentication, Authorisation, Confidentiality, Encryption, Decryption, Digital Certificates, Digital Signatures, Verification, Public Key, Grid, Globus</subject>
+				<date>2006-01-18</date>
+				<categories>Security and Confidentiality|Grid and Web Services</categories>
+				<description>This Tutorial on Internet and Grid Security is provided in four  modules of increasing difficulty: Introduction to Distributed Environments and Security Terms, Description of Security Concepts and Components, Public Key Infrastructure, Grid Security Infrastructure.</description>
+				<creators>Baker, Mark</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/document-pool/An%20Overview%20of%20Internet%20and%20Grid%20Security%20-%20v2.doc</identifier>
+				<format>application/msword</format>
+				<publishers>University of Portsmouth</publishers>
+				<title>An Overview of Internet and Grid Security</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/index.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>IBM's Explaination of Grid Computing.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.646343766704189</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/index.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>About Grid Computing.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.epcc.ed.ac.uk/projects/inwa/">
+			<metadata>
+				<language>EN</language>
+				<subject>GRID, global data, training, education</subject>
+				<date>2006-01-18</date>
+				<categories>Examples from e-Social Science Projects|Grid and Web Services</categories>
+				<description>The INWA project has been using existing Grid technologies to allow researchers to analyse commercial data located at sites in the UK, Australia. Recently the project has been extended to include a site in China.</description>
+				<creators>EPCC</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.414292865589706</redress_difficulty>
+				<identifier>http://www.epcc.ed.ac.uk/projects/inwa/</identifier>
+				<format>text/html</format>
+				<publishers>University of Edinburgh</publishers>
+				<title>INWA - Informing Business & Regional Policy : Grid-enabled fusion of global data and local knowledge</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/resources/Tony_Hey/originofgridcern2003/session1imp.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Grid and Web Services</categories>
+				<description>Origins of the Grid</description>
+				<creators>Hey, Tony</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.647602413168389</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/resources/Tony_Hey/originofgridcern2003/session1imp.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>CERN|University of Lancaster</publishers>
+				<title>Origins of the Grid.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/growl/growl.php">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Grid and Web Services</categories>
+				<description>Grid Resources on a Workstation Library (GROWL) Session Management - an Overview</description>
+				<creators>Grose, Daniel</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.612372779866071</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/growl/growl.php</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Grid Resources on a Workstation Library (GROWL) Session Management - an Overview.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.gridtoday.com/02/0722/100136.html">
+			<metadata>
+				<language>EN</language>
+				<subject>grid computing, distributed computing</subject>
+				<date>2006-01-12</date>
+				<categories>Grid and Web Services</categories>
+				<description>A short article by Ian Foster from Argonne National Lab & University of Chicago.  It describes a three point checklist for determining whether a system is a Grid. He goes on to discuss the critical role that standards must play in defining the Grid.</description>
+				<creators>Foster, Ian</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.588905769543876</redress_difficulty>
+				<identifier>http://www.gridtoday.com/02/0722/100136.html</identifier>
+				<format>text/html</format>
+				<publishers>Grid Today</publishers>
+				<title>What is the Grid? A Three Point Checklist.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.gridcomputing.com/gridfaq.html">
+			<metadata>
+				<language>EN</language>
+				<subject>clusters, network computing, grid computing, computational   grids, computational economy, distributed computing, high performance distributed computing,   internet computing, information economy, wide area computing, metacomputing,   metacomputers, clusters of clusters, internet computing, resource   management, scheduling, local scheduling, remote computing, global computing, global scheduling, information power grid, high   performance computing, information power grid, computational power grid, internet</subject>
+				<date>2006-01-11</date>
+				<categories>Introductory Material and Support|Grid and Web Services</categories>
+				<description>A Grid Frequently asked questions web page.  Answering questions such as: What is Grid?, How is Grid different from other technologies such as Clusters/P2P/ASP? What about Grid Economy and Resource Management? What about your work in this area? and so on..., What are key Design Issues in Grid Computing? Who is addressing what?, How does Computational Grids operate compared to Electrical Power Grids ?... plus many other commonly asked questions.
+</description>
+				<creators>Buyya, Rajkumar</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.56426131550592</redress_difficulty>
+				<identifier>http://www.gridcomputing.com/gridfaq.html</identifier>
+				<format>text/html</format>
+				<publishers>The Gridbus Project</publishers>
+				<title>Grid Computing Info Centre: Frequently Asked Questions (FAQ)</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/WebServices/JoyOfWebServices.ppt">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-12</date>
+				<categories>Grid and Web Services</categories>
+				<description>Web Services Tutorial</description>
+				<creators>McKeown, Mark</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/WebServices/JoyOfWebServices.ppt</identifier>
+				<format>text/html</format>
+				<publishers>University of Manchester</publishers>
+				<title>Web Services Tutorial.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.ccsr.ac.uk/research/griddisclosure.htm">
+			<metadata>
+				<language>EN</language>
+				<subject>CCSR, cathie marsh centre, census microdata, survey research, small area microdata, SARs, 2001 census, marie curie fellowships, marie curie training centre</subject>
+				<date>2006-01-18</date>
+				<categories>Examples from e-Social Science Projects|Grid and Web Services</categories>
+				<description>This is a research project carried out by the Cathie Marsh Centre for Census and Survey Reseach at the University of Manchester.  It contains links to publications, courses, events and consultancy.</description>
+				<creators>Elliot, Mark|Pickles, Stephen|Purdam, Kingsley|Smith, Duncan</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.590192075</redress_difficulty>
+				<identifier>http://www.ccsr.ac.uk/research/griddisclosure.htm</identifier>
+				<format>text/html</format>
+				<publishers>University of Manchester</publishers>
+				<title>An Investigation of the Disclosure Risk Issues Posed by the GRID</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/faq.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>Grid Frequently Asked Questions.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.649050645873798</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/faq.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>Grid Frequently Asked Questions.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/CQeSSR2.ppt">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-12</date>
+				<categories>Examples from e-Social Science Projects|High Performance Computing|Grid and Web Services</categories>
+				<description>An OGSA Component-Based Approach to Middleware for Statistical Modelling</description>
+				<creators>Crouchley, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/CQeSSR2.ppt</identifier>
+				<format>text/html</format>
+				<publishers>University of Lancaster</publishers>
+				<title>An OGSA Component-Based Approach to Middleware for Statistical Modelling.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/roballan/talk2/talk2.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Agenda Setting Workshops|Grid and Web Services</categories>
+				<description>Rob Allan, CCLRC e-Science Centre and JISC Common Framework Working Group - How to Use the Grid.</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.635727528016603</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/roballan/talk2/talk2.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>How to Use the Grid.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A_part2/session3imp.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Grid and Web Services</categories>
+				<description>Grid Technology A Part 2</description>
+				<creators>Fox, Geoffrey</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.647130056748899</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A_part2/session3imp.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>CERN|University of Lancaster</publishers>
+				<title>Grid Technology A Part 2.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A_part3/session4imp.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Grid and Web Services</categories>
+				<description>Grid Technology A Part 3</description>
+				<creators>Fox, Geoffrey</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.646895068790684</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A_part3/session4imp.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>CERN|University of Lancaster</publishers>
+				<title>Grid Technology A Part 3.</title>
+			<metadata>
+		</content>
+		<content identifier="http://dsg.port.ac.uk/events/workshops/VRE05/talks/Matthew%20J.%20Dovey.ppt">
+			<metadata>
+				<language>EN</language>
+				<subject>WSRP, WebServices, Portal, Portlet</subject>
+				<date>2006-01-30</date>
+				<categories>Portals and Related Technology|Grid and Web Services</categories>
+				<description>WSRP is the SOAP standard for allowing portals to access remote portlets. The currently implemented version of this standard is 1.0, but 2.0 is now in the final drafts. This talk will give an overview of the capabilities of WSRP 1.0, what is planned for WSRP 2.0 and what features have been defered until after 2.0. It will also summarise the relationship between WSRP and the Java Portlet APIs.</description>
+				<creators>Dovey, Matthew</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://dsg.port.ac.uk/events/workshops/VRE05/talks/Matthew%20J.%20Dovey.ppt</identifier>
+				<format>text/html</format>
+				<publishers>University of Oxford|University of Portsmouth</publishers>
+				<title>WSRP Overview and Future.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/Grid/ncess_ahm_allan_pickles.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Grid and Web Services</categories>
+				<description>Computational Grid Middleware - an overview of current technology and future trends</description>
+				<creators>Pickles, Stephen|Allan, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.497293052859793</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/Grid/ncess_ahm_allan_pickles.pdf</identifier>
+				<format>application/pdf</format>
+				<publishers>University of Manchester|CCLRC</publishers>
+				<title>Computational Grid Middleware - an overview of current technology and future trends.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/roballan/talk1/talk1.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Agenda Setting Workshops|Grid and Web Services</categories>
+				<description>Rob Allan and Rob Crouchley - The UK National Grid Service.</description>
+				<creators>Dolby, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.636859138400897</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/roballan/talk1/talk1.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>The UK National Grid Service.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-128.ibm.com/developerworks/grid/library/gr-gt4mds/">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Software Development|High Performance Computing|Grid and Web Services</categories>
+				<description>This article introduces the Globus Monitoring and Discovery Service (MDS). It discusses the components that make up MDS and describes how other services typically interact with MDS in a grid environment. After reading this article, you should be able to configure the Globus MDS and register services, as well as other information providers with MDS. You'll learn how to aggregate information and how to configure multiple Index Services in an MDS hierarchy to form a grid Index Service.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.636567866155634</redress_difficulty>
+				<identifier>http://www-128.ibm.com/developerworks/grid/library/gr-gt4mds/</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>Grid in Action: Monitor and Discover Grid Services in an SOA/Web Services Environment.</title>
+			<metadata>
+		</content>
+		<content identifier="http://dsg.port.ac.uk/events/workshops/VRE05/talks/Xiaobo%20Yang.ppt">
+			<metadata>
+				<language>EN</language>
+				<subject>WSRP,Sakai,WSRP4J,Portel,Portlets</subject>
+				<date>2006-01-30</date>
+				<categories>Portals and Related Technology|Grid and Web Services</categories>
+				<description>WSRP highlights the approach to integrate both business logic and user interfaces. By standardising presentation-oriented web services, WSRP makes it possible to construct web portals in "plug-and-play" mode. In this talk, the WSRP support of selected open-source portal frameworks and the development experience of producing a WSRP consumer for Sakai will be reported. We will report on WSRP support for the eXo platform, Liferay, StringBeans and uPortal. WSRP4J, which is not a portal framework but a reference implementation of the WSRP 1.0 specification and the basis of WSRP support in many portal frameworks, is also discussed. Development experience of a servlet-based Sakai WSRP consumer built on top of ProxyPortlet, a WSRP4J consumer, will then follow.</description>
+				<creators>Yang, Xiaobo|Dong Wang, Xiao|Allan Rob</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://dsg.port.ac.uk/events/workshops/VRE05/talks/Xiaobo%20Yang.ppt</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC, University of Portsmouth</publishers>
+				<title>Experiences with WSRP Development and Testing.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/resources/Tony_Hey/TheFutureoftheGrid-e-Sciencetoe-Business/session5imp.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Grid and Web Services</categories>
+				<description>Origins of the Grid</description>
+				<creators>Hey, Tony</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.646660869528516</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/resources/Tony_Hey/TheFutureoftheGrid-e-Sciencetoe-Business/session5imp.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>CERN|University of Lancaster</publishers>
+				<title>Origins of the Grid
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/gridandgrow.shtml">
+			<metadata>
+				<language>EN-US</language>
+				<subject>Grid, Grid computing, Computing, Resource aggregation, Data sharing, Collaboration, WebSphere, DB2, Open Grid Services Architecture, Solutions, Service, Distributed Computing, Cluster Computing, OGSA</subject>
+				<date>2006-01-31</date>
+				<categories>Grid and Web Services</categories>
+				<description>This webpage describes IBM's GRID solution for customers who are new to GRID computing.  It also gives IBM's view on why GRID computing would be a benifit to consumers with compute intensive applications.  The webpage contains a Flash demo which gives an explaination of the GRID.  It describes IBM's GRID solution as well as giving a case study.  There is a none flash version for those who cannot view Flash.</description>
+				<creators> Clune, R Robin|Somers|IBM@IBMUS</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.6012774079125</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/gridandgrow.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM Corporation - Grid Computing</publishers>
+				<title>IBM Grid Computing.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/Grid/unit1.html">
+			<metadata>
+				<language>EN</language>
+				<subject>e-Science, Grid, Resources, Computing, Data Management</subject>
+				<date>2006-01-18</date>
+				<categories>Data Management|High Performance Computing|Grid and Web Services</categories>
+				<description>An Overview of Computational Grids. Covering topics such as the Globus Grid Toolkit, e-Science Grid infrastructure and web and grid services.</description>
+				<creators>Allan, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.586994050385855</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/Grid/unit1.html</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Computational Grid</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/what_is.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>IBM's Explaination of Grid Computing.
+</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.647939641602142</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/what_is.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>What is Grid Computing.</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Security and Confidentiality" description="Issues important to data handling and access to remote facilities.">
+		<content identifier="http://eprints.ecs.soton.ac.uk/7286/01/RoughGuideToGridSecurityV1_1a.pdf">
+			<metadata>
+				<language>EN</language>
+				<subject>Security, Grid, </subject>
+				<date>2006-02-01</date>
+				<categories>Introductory Material and Support|Security and Confidentiality</categories>
+				<description>The purpose of this document is to raise awareness within this expanded community of some of the security challenges posed by Grid computing.  As the size and profile of the community grows, the security of Grids will become more important than ever before.  The Grid systems in use today do not address security in the systematic way now demanded of e-Commerce systems, and it is relatively easy to make mistakes and create insecure Grids.  The aim of this document is to enable new Grid infrastructure developers, and more especially those concerned with deploying, operating and using the Grid, to create more secure systems and applications.</description>
+				<creators>Surridge, Mike</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://eprints.ecs.soton.ac.uk/7286/01/RoughGuideToGridSecurityV1_1a.pdf</identifier>
+				<format>text/html</format>
+				<publishers>University of Southampton</publishers>
+				<title>Rough Guide to Grid Security</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/StarterKit/HTML/SSL/contents.html">
+			<metadata>
+				<language>EN</language>
+				<subject>SSL, Introduction, Secure Sockets Layer, Netscape, networks</subject>
+				<date>2006-02-01</date>
+				<categories>Introductory Material and Support|Security and Confidentiality</categories>
+				<description>This document introduces the Secure Sockets Layer (SSL) protocol. Originally developed by Netscape, SSL has been universally accepted on the World Wide Web for authenticated and encrypted communication between clients and servers.  The document covers: The SSL Protocol,  
+Ciphers Used with SSL, 
+The SSL Handshake.</description>
+				<creators>Netscape</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.478734987125052</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/StarterKit/HTML/SSL/contents.html</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Introduction to SSL</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/StarterKit/HTML/PKI/contents.html">
+			<metadata>
+				<language>EN</language>
+				<subject>Cryptography, Public-Key, Introduction, Internet, </subject>
+				<date>2006-02-01</date>
+				<categories>Introductory Material and Support|Security and Confidentiality</categories>
+				<description>Public-key cryptography and related standards and techniques underlie security features of many Netscape products, including signed and encrypted email, form signing, object signing, single sign-on, and the Secure Sockets Layer (SSL) protocol. This document introduces the basic concepts of public-key cryptography. The topics covered are: Internet Security Issues,
+ Encryption and Decryption, 
+Digital Signatures, 
+Certificates and Authentication,  
+Managing Certificates.</description>
+				<creators>Netscape</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.592051806491095</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/StarterKit/HTML/PKI/contents.html</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Introduction to Public-Key Cryptography</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/document-pool/An%20Overview%20of%20Internet%20and%20Grid%20Security%20-%20v2.doc">
+			<metadata>
+				<language>EN</language>
+				<subject>Distributed Environments, Security, Authentication, Authorisation, Confidentiality, Encryption, Decryption, Digital Certificates, Digital Signatures, Verification, Public Key, Grid, Globus</subject>
+				<date>2006-01-18</date>
+				<categories>Security and Confidentiality|Grid and Web Services</categories>
+				<description>This Tutorial on Internet and Grid Security is provided in four  modules of increasing difficulty: Introduction to Distributed Environments and Security Terms, Description of Security Concepts and Components, Public Key Infrastructure, Grid Security Infrastructure.</description>
+				<creators>Baker, Mark</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/document-pool/An%20Overview%20of%20Internet%20and%20Grid%20Security%20-%20v2.doc</identifier>
+				<format>application/msword</format>
+				<publishers>University of Portsmouth</publishers>
+				<title>An Overview of Internet and Grid Security</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Motivation and Background" description="A section describing why e-Social Science may provide new research opportunities or make existing research more efficient and effective. It contains illustrations of the limitations of conventional approaches to Social research, particularly in the area of large-scale social modeling. It shows examples of how e-Social Science technology has already been applied with some success to a number of projects and why it is promising and worthwhile to pursue for others. ">
+		<content identifier="http://academia.web.cern.ch/academia/lectures/grid/">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Motivation and Background</categories>
+				<description>A series of lectures introducing the Grid, given at CERN.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.641864752993201</redress_difficulty>
+				<identifier>http://academia.web.cern.ch/academia/lectures/grid/</identifier>
+				<format>text/html</format>
+				<publishers>CERN</publishers>
+				<title>Everything You Always Wanted to Know About GRID and Never Dared to Ask.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/pdps.shtml">
+			<metadata>
+				<language>EN</language>
+				<subject>Pilot Project, ESRC, Grid, e-Science, Social Sciences</subject>
+				<date>2005-12-23</date>
+				<categories>Motivation and Background</categories>
+				<description>There are 11 e-Science pilot projects funded by the ESRC which explore the application of grid technologies in the social sciences. This webpage gives a brief description and relevant links to the project websites. The projects are carried out by a number of research institutions within the UK.</description>
+				<creators>Allan, Rob</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.634102081892523</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/pdps.shtml</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Grid Technologies in the Social Sciences Pilot Projects. </title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/robprocter/Presentation1.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Motivation and Background|Agenda Setting Workshops</categories>
+				<description>An overview of NCeSS.</description>
+				<creators>Procter, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.647265604475207</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/robprocter/Presentation1.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>NCESS</publishers>
+				<title>An overview of NCeSS.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/ReDRESS/ncess.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Motivation and Background</categories>
+				<description>ESRC Consultancy Reports.</description>
+				<creators>Rodden, Tom|Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.634228233848261</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/ReDRESS/ncess.shtml</identifier>
+				<format>text/html</format>
+				<publishers>University of Nottingham|ESRC</publishers>
+				<title>ESRC Consultancy Reports in e-Social Science.
+</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/asw/6thapril/robcrouchley/robcrouchley.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Motivation and Background|Agenda Setting Workshops</categories>
+				<description>A Narrow and Personal View on Quantitative Methods and e-Social Science, Without an Agenda.</description>
+				<creators>Halfpenny, Peter|Procter, Rob|Crouchley, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.6489337609074</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/asw/6thapril/robcrouchley/robcrouchley.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>NCeSS|NCeSS|University of Lancaster</publishers>
+				<title>A Narrow and Personal View on Quantitative Methods and e-Social Science, Without an Agenda.
+</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Collaboration" description="e-Collaboration technologies, e.g. Access Grid.">
+		<content identifier="http://www.ncess.ac.uk/resources/fasttrack/index.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Collaboration</categories>
+				<description>Access Grid Tutorial</description>
+				<creators>Hewitt, Terry|Fast Track Project</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.619617710826454</redress_difficulty>
+				<identifier>http://www.ncess.ac.uk/resources/fasttrack/index.html</identifier>
+				<format>text/html</format>
+				<publishers>University of Manchester</publishers>
+				<title>The Access Grid Tutorial: Home Page.</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://www.aktors.org/coakting">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Collaboration|Semantics, Knowledge and Information Management</categories>
+				<description>Collaborative Advanced Knowledge Technologies</description>
+				<creators>CoAktIng</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.621315227615153</redress_difficulty>
+				<identifier>http://www.aktors.org/coakting</identifier>
+				<format>text/html</format>
+				<publishers>NCeSS</publishers>
+				<title>The CoAKTinG (Collaborative Advanced Knowledge Technologies in the Grid) Project Web Site.</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Databases" description="Relational and XML database technologies and their use.">
+		<content identifier="http://www-128.ibm.com/developerworks/grid/library/gr-feddata/">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Data Management|Databases</categories>
+				<description>Explore the architectural gaps that exist between the WebSphere&reg; Information Integrator and a data grid built using the Open Grid Services Architecture Data Access and Integration (OGSA-DAI). Then download Grid Wrapper for WebSphere Information Integrator from alphaWorks. The authors show you how to develop a grid wrapper to work with WebSphere Information Integrator to provide database federation and data transparency. Descriptions of the existing structure and of the architecture designed to fill the gaps are included.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.635419006964935</redress_difficulty>
+				<identifier>http://www-128.ibm.com/developerworks/grid/library/gr-feddata/</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>Bridging the Integration Gap, Part 1: Federating Grid Data.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.esds.ac.uk/International/">
+			<metadata>
+				<language>EN</language>
+				<subject>Economic and Social Data Service, ESDS International</subject>
+				<date>2006-01-13</date>
+				<categories>Databases</categories>
+				<description>ESDS International provides access to, and support for, a range of international datasets - both macro and micro sources. The service aims to promote and facilitate increased and more effective use of international datasets in research, learning and teaching across a range of disciplines.</description>
+				<creators>Noble, S</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.604701075201158</redress_difficulty>
+				<identifier>http://www.esds.ac.uk/International/</identifier>
+				<format>text/html</format>
+				<publishers>University of Essex|University of Manchester</publishers>
+				<title>ESDS International</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://ahds.ac.uk/history/index.htm">
+			<metadata>
+				<language>EN</language>
+				<subject>Arts, Humanities, Data Service, digital resources, history, learning, teaching</subject>
+				<date>2006-01-18</date>
+				<categories>Databases</categories>
+				<description>AHDS History is one of the five Centres of the Arts and Humanities Data Service and collects, preserves, and promotes the use of digital resources, which result from or support historical research, learning and teaching.</description>
+				<creators>AHDS History</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.6666</redress_difficulty>
+				<identifier>http://ahds.ac.uk/history/index.htm</identifier>
+				<format>text/html</format>
+				<publishers>University of Essex</publishers>
+				<title>AHDS History</title>
+			<metadata>
+		</content>
+		<content identifier="http://ahds.ac.uk/history/collections/index.htm">
+			<metadata>
+				<language>EN</language>
+				<subject>Arts, Humanities, Data Service, digital resources, history, learning, teaching, collections</subject>
+				<date>2006-01-18</date>
+				<categories>Databases</categories>
+				<description>AHDS History's collection brings together over 600 separate data collections transcribed, scanned or compiled from historical sources. The studies cover a wide range of historical topics, from the seventh century to the mid-twentieth century. Although the primary focus of the collection is on the United Kingdom, it also includes a significant body of cross-national and international data collections. Examples of topics covered include: nineteenth and twentieth century statistics, manuscript census records, state finance data, demographic data, mortality data, community histories, electoral history and economic indicators.</description>
+				<creators>AHDS History</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.5888055359364</redress_difficulty>
+				<identifier>http://ahds.ac.uk/history/collections/index.htm</identifier>
+				<format>text/html</format>
+				<publishers>University of Essex</publishers>
+				<title>AHDS History Collections</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.mimas.ac.uk/">
+			<metadata>
+				<language>EN</language>
+				<subject>MIMAS, Manchester Information and Associated Services, supplying electronic datasets to the UK HE community.  Census, statistics, bibliographic and scientific services, ISI Web of  Science Knowledge, Beilstein CrossFire, spatial datasets, international data</subject>
+				<date>2006-01-18</date>
+				<categories>Databases</categories>
+				<description>MIMAS is a JISC-supported national data centre providing the UK higher education, further education and research community with networked access to key data and information resources to support teaching, learning and research across a wide range of disciplines.</description>
+				<creators>MIMAS</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.6666</redress_difficulty>
+				<identifier>http://www.mimas.ac.uk/</identifier>
+				<format>text/html</format>
+				<publishers>University of Manchester</publishers>
+				<title>MIMAS Home Page</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.sosig.ac.uk/statistics/">
+			<metadata>
+				<language>EN</language>
+				<subject>Statistics, Social Science</subject>
+				<date>2006-01-18</date>
+				<categories>Databases</categories>
+				<description>The Social Science Information Gateway (SOSIG) is a freely available Internet service which aims to provide a trusted source of selected, high quality Internet information for students, academics, researchers and practitioners in the social sciences, business and law. It is part of the UK Resource Discovery Network.</description>
+				<creators>SOSIG</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.666602443548387</redress_difficulty>
+				<identifier>http://www.sosig.ac.uk/statistics/</identifier>
+				<format>text/html</format>
+				<publishers>SOSIG</publishers>
+				<title>The Social Science Information Gateway </title>
+			<metadata>
+		</content>
+		<content identifier="http://nesstar.esds.ac.uk/webview/index.jsp">
+			<metadata>
+				<language>EN</language>
+				<subject>nesstar</subject>
+				<date>2006-01-18</date>
+				<categories>Databases</categories>
+				<description>This site offers a searchable data library allowing you to locate, browse and download key economic and social data. For example: British General Election Study Data, British Social Attitudes Survey Data and Expenditure and Food Survey Data. </description>
+				<creators>Nesstar</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.261415849264706</redress_difficulty>
+				<identifier>http://nesstar.esds.ac.uk/webview/index.jsp</identifier>
+				<format>text/html</format>
+				<publishers>Nesstar</publishers>
+				<title>ESDS Nesstar Catalogue</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.data-archive.ac.uk">
+			<metadata>
+				<language>EN</language>
+				<subject>esds , Economic and Social Data Service , The Data Archive, Data Archive, archive, data, computer-readable data, social sciences, humanities</subject>
+				<date>2006-01-18</date>
+				<categories>Databases</categories>
+				<description>The UK Data Archive (UKDA) is a centre of expertise in data acquisition, preservation, dissemination and promotion and is curator of the largest collection of digital data in the social sciences and humanities in the UK. It is funded by the Economic and Social Research Council (ESRC), the Joint Information Systems Committee (JISC) of the Higher Education Funding Councils and the University of Essex. Founded in 1967, it now houses several thousand datasets of interest to researchers in all sectors and from many different disciplines.</description>
+				<creators>Ageer, L</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.478839304971317</redress_difficulty>
+				<identifier>http://www.data-archive.ac.uk</identifier>
+				<format>text/html</format>
+				<publishers>University of Essex</publishers>
+				<title>UK Data Archive</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Semantics, Knowledge and Information Management" description="Tools and technology for semantics, knowledge and information management.">
+		<content identifier="http://redress.lancs.ac.uk//resources/Paul%20Watry/Cheshire%20Framework/Cheshire-Framework.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Semantics, Knowledge and Information Management</categories>
+				<description>Cheshire Framework.</description>
+				<creators>Watry, Paul</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.618012585226998</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk//resources/Paul%20Watry/Cheshire%20Framework/Cheshire-Framework.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>The Cheshire Framework.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/resources/Rob%20Crouchley/Information%20Workshop%20Intro/Information-Workshop-Intro.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Semantics, Knowledge and Information Management</categories>
+				<description>Information Workshop Introduction</description>
+				<creators>Crouchley, Rob</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.621695076713766</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/resources/Rob%20Crouchley/Information%20Workshop%20Intro/Information-Workshop-Intro.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Information Workshop Introduction - Lancaster University.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/resources/Phil%20Couch/Information%20Management%20Strategies%20for%20Computational%20Chemistry/Information-Management-Strategies-for-Computational-Chemistry.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-20</date>
+				<categories>Semantics, Knowledge and Information Management</categories>
+				<description>Information Management Strategies for Computational Chemistry</description>
+				<creators>Couch, Phil</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.621157047984951</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/resources/Phil%20Couch/Information%20Management%20Strategies%20for%20Computational%20Chemistry/Information-Management-Strategies-for-Computational-Chemistry.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Information Management Strategies for Computational Chemistry.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/resources/Andy%20Powell/JISC%20Information%20Environment/session9.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Semantics, Knowledge and Information Management</categories>
+				<description>JISC IE Architecture, Collections and Registries.</description>
+				<creators>Powell, Andy</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.617502091366737</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/resources/Andy%20Powell/JISC%20Information%20Environment/session9.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>JISC IE Architecture, Collections and Registries.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk//resources/Adrian%20Fish/Learning%20Ladders/Learning-Ladders.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Semantics, Knowledge and Information Management</categories>
+				<description>Creating Learning Ladders from Distributed Content.</description>
+				<creators>Fish, Adrian</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.61852689554299</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk//resources/Adrian%20Fish/Learning%20Ladders/Learning-Ladders.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Creating Learning Ladders from Distributed Content.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk//resources/Patrick%20Carmichael/Managing%20information%20with%20D-Space%20and%20VREs/Managing-information-with-D-Space-and-VREs.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Semantics, Knowledge and Information Management|Portals and Related Technology</categories>
+				<description>Managing information with D Space and VREs</description>
+				<creators>Carmichel, Patrick</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.620623072516825</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk//resources/Patrick%20Carmichael/Managing%20information%20with%20D-Space%20and%20VREs/Managing-information-with-D-Space-and-VREs.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Managing information with D Space and VREs.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/document-pool/Abstract_K.Ahmad_5thoct2005asw.doc">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-12</date>
+				<categories>Agenda Setting Workshops|Semantics, Knowledge and Information Management</categories>
+				<description>5th October 2005 Agenda Setting Workshop - K. Ahmad, University of Surrey, Abstract - The quality of social interaction: Towards an automatic analysis of sentiments in informative and persuasive texts.</description>
+				<creators>Ahmad, Khurshid</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/document-pool/Abstract_K.Ahmad_5thoct2005asw.doc</identifier>
+				<format>text/html</format>
+				<publishers>University of Surrey</publishers>
+				<title>The quality of social interaction: Towards an automatic analysis of sentiments in informative and persuasive texts (Abstract).</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/resources/Angela Abell/Knowledge Management Roadmap/Knowledge-Management-Roadmap.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Semantics, Knowledge and Information Management</categories>
+				<description>The KM Roadmap, A current JISC Project</description>
+				<creators>Abell, Angela</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.619567118752253</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/resources/Angela Abell/Knowledge Management Roadmap/Knowledge-Management-Roadmap.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>The KM Roadmap, A current JISC Project.</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk//resources/Khurshid Ahmad/The quality of social interaction/The-quality-of-social-interaction.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Semantics, Knowledge and Information Management</categories>
+				<description>The Quality of Social Interaction: Towards an Automatic Analysis of Sentiments in Informative and Persuasive Texts</description>
+				<creators>Ahmad, Khurshid</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.619045060490941</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk//resources/Khurshid Ahmad/The quality of social interaction/The-quality-of-social-interaction.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>The Quality of Social Interaction: Towards an Automatic Analysis of Sentiments in Informative and Persuasive Texts.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.semanticgrid.org/brief/">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Semantics, Knowledge and Information Management</categories>
+				<description>A Brief History of the Semantic Grid</description>
+				<creators>De Roure, David|Dagstuhl, Schloss</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.611720924849906</redress_difficulty>
+				<identifier>http://www.semanticgrid.org/brief/</identifier>
+				<format>text/html</format>
+				<publishers>University of Southampton</publishers>
+				<title>A Brief History of the Semantic Grid.
+</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.aktors.org/coakting">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Collaboration|Semantics, Knowledge and Information Management</categories>
+				<description>Collaborative Advanced Knowledge Technologies</description>
+				<creators>CoAktIng</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.621315227615153</redress_difficulty>
+				<identifier>http://www.aktors.org/coakting</identifier>
+				<format>text/html</format>
+				<publishers>NCeSS</publishers>
+				<title>The CoAKTinG (Collaborative Advanced Knowledge Technologies in the Grid) Project Web Site.</title>
+			<metadata>
+		</content>
+		<content identifier="http://redress.lancs.ac.uk/resources/Lee Gillam/Metadata Terminology and Ontology/Metadata-Terminology-and-Ontology.html">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Semantics, Knowledge and Information Management</categories>
+				<description>Metadata Terminology and Ontology</description>
+				<creators>Gillam, Lee</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.62009310952187</redress_difficulty>
+				<identifier>http://redress.lancs.ac.uk/resources/Lee Gillam/Metadata Terminology and Ontology/Metadata-Terminology-and-Ontology.html</identifier>
+				<format>application/x-impatica-oncue</format>
+				<publishers>University of Lancaster</publishers>
+				<title>Metadata Terminology and Ontology.</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Introductory Material and Support" description="An introduction to e-Social Science and the <a href="/Acronyms/acr_r.html#redress" target="_blank"><span class="glossary_link">ReDRESS</span></a> project and how this project fits into the support offered by the <a href="http://www.ncess.ac.uk" target="_blank"><span class="glossary_link">NCeSS</span></a> hub and nodes. <a href="http://en.wikipedia.org/wiki/E-Science" target="_blank"><span class="glossary_link">e-Science</span></a> technology is introduced, together with some of the organisations that are working to extend e-Science for Social Science research or are active in e-Science including NeSC. This section is very basic but includes links to related projects in other disciplines.   ">
+		<content identifier="http://eprints.ecs.soton.ac.uk/7286/01/RoughGuideToGridSecurityV1_1a.pdf">
+			<metadata>
+				<language>EN</language>
+				<subject>Security, Grid, </subject>
+				<date>2006-02-01</date>
+				<categories>Introductory Material and Support|Security and Confidentiality</categories>
+				<description>The purpose of this document is to raise awareness within this expanded community of some of the security challenges posed by Grid computing.  As the size and profile of the community grows, the security of Grids will become more important than ever before.  The Grid systems in use today do not address security in the systematic way now demanded of e-Commerce systems, and it is relatively easy to make mistakes and create insecure Grids.  The aim of this document is to enable new Grid infrastructure developers, and more especially those concerned with deploying, operating and using the Grid, to create more secure systems and applications.</description>
+				<creators>Surridge, Mike</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://eprints.ecs.soton.ac.uk/7286/01/RoughGuideToGridSecurityV1_1a.pdf</identifier>
+				<format>text/html</format>
+				<publishers>University of Southampton</publishers>
+				<title>Rough Guide to Grid Security</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/benefits.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>IBM's view of the benifits of the Grid.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.650202270949137</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/benefits.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>Grid Benefits.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/ibm_grid/index.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>An explaination of IBM's role in Grid Computing.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.647920596790214</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/ibm_grid/index.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>IBM and Grid.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/index.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>IBM's Explaination of Grid Computing.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.646343766704189</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/index.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>About Grid Computing.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-fp.mcs.anl.gov/~foster/talks.htm">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support</categories>
+				<description>This web site contains a list of recent talks given by Ian Foster from the Mathematics and Computer Science Division at the Argonne National Laboratory in the US. The context of the talks is Grid Technologies.</description>
+				<creators>Foster, Ian</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.62688562472537</redress_difficulty>
+				<identifier>http://www-fp.mcs.anl.gov/~foster/talks.htm</identifier>
+				<format>text/html</format>
+				<publishers>Argonne</publishers>
+				<title>Talks on Grid Technologies, give by Ian Fost from the ANL in the US.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/StarterKit/HTML/SSL/contents.html">
+			<metadata>
+				<language>EN</language>
+				<subject>SSL, Introduction, Secure Sockets Layer, Netscape, networks</subject>
+				<date>2006-02-01</date>
+				<categories>Introductory Material and Support|Security and Confidentiality</categories>
+				<description>This document introduces the Secure Sockets Layer (SSL) protocol. Originally developed by Netscape, SSL has been universally accepted on the World Wide Web for authenticated and encrypted communication between clients and servers.  The document covers: The SSL Protocol,  
+Ciphers Used with SSL, 
+The SSL Handshake.</description>
+				<creators>Netscape</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.478734987125052</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/StarterKit/HTML/SSL/contents.html</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Introduction to SSL</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.nesc.ac.uk/talks/533/LesCottrellNFNN2.pdf">
+			<metadata>
+				<language>EN</language>
+				<subject>UNIX, network, diagnostics</subject>
+				<date>2006-02-01</date>
+				<categories>Introductory Material and Support|Network Technology</categories>
+				<description>This document provides a practical guide to debugging common network problems for the UNIX operating system. It covers commands such as ping, traceroute, PingRoute. It also looks at time series, locating bottlenecks, correlation of problems with routes, as well as case studies.</description>
+				<creators>Cottrell, Les </creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.296655398071004</redress_difficulty>
+				<identifier>http://www.nesc.ac.uk/talks/533/LesCottrellNFNN2.pdf</identifier>
+				<format>text/html</format>
+				<publishers>SLAC|NESC</publishers>
+				<title>Diagnostic Steps.</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://www.gridcomputing.com/gridfaq.html">
+			<metadata>
+				<language>EN</language>
+				<subject>clusters, network computing, grid computing, computational   grids, computational economy, distributed computing, high performance distributed computing,   internet computing, information economy, wide area computing, metacomputing,   metacomputers, clusters of clusters, internet computing, resource   management, scheduling, local scheduling, remote computing, global computing, global scheduling, information power grid, high   performance computing, information power grid, computational power grid, internet</subject>
+				<date>2006-01-11</date>
+				<categories>Introductory Material and Support|Grid and Web Services</categories>
+				<description>A Grid Frequently asked questions web page.  Answering questions such as: What is Grid?, How is Grid different from other technologies such as Clusters/P2P/ASP? What about Grid Economy and Resource Management? What about your work in this area? and so on..., What are key Design Issues in Grid Computing? Who is addressing what?, How does Computational Grids operate compared to Electrical Power Grids ?... plus many other commonly asked questions.
+</description>
+				<creators>Buyya, Rajkumar</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.56426131550592</redress_difficulty>
+				<identifier>http://www.gridcomputing.com/gridfaq.html</identifier>
+				<format>text/html</format>
+				<publishers>The Gridbus Project</publishers>
+				<title>Grid Computing Info Centre: Frequently Asked Questions (FAQ)</title>
+			<metadata>
+		</content>
+		<content identifier="http://forge.gridforum.org/projects/hass-rg">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support</categories>
+				<description>Humanities and Arts and Social Sciences Research Group Web Site - The Humanities, Arts and Social Science Research Group (HASS-RG) will identify and develop capability for the Humanities, Arts and Social Science with Information Technology on a grid infrastructure.</description>
+				<creators>Clark, Allison|Franklinm, Kevin</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.651747406050847</redress_difficulty>
+				<identifier>http://forge.gridforum.org/projects/hass-rg</identifier>
+				<format>text/html</format>
+				<publishers>GGF</publishers>
+				<title>Humanities and Arts and Social Sciences Research Group Web Site.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/faq.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>Grid Frequently Asked Questions.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.649050645873798</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/faq.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>Grid Frequently Asked Questions.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.nesc.ac.uk/training/">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-12</date>
+				<categories>Introductory Material and Support</categories>
+				<description>Courses at National e-Science Centre (NeSC) - The Training Team at the National e-Science Centre (NeSC) creates and delivers training courses to encourage development, uptake and proficient use of e-Science technologies and infrastructure across industry and public service as well as in many fields of research.</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>-1</redress_difficulty>
+				<identifier>http://www.nesc.ac.uk/training/</identifier>
+				<format>text/html</format>
+				<publishers>NeSC</publishers>
+				<title>Courses at National e-Science Centre (NeSC).</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.enacts.org/distancelearning.pdf">
+			<metadata>
+				<language>EN</language>
+				<date>2006-01-13</date>
+				<categories>Introductory Material and Support</categories>
+				<description>This is a scientific and technological study undertaken by the ICCC Group a.s , Division
+HPC, Prague, Czech Republic (ICCC) for the ENACTS network.
+Carried out September 2003 - March 2004.
+</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.163608987605042</redress_difficulty>
+				<identifier>http://www.enacts.org/distancelearning.pdf</identifier>
+				<format>text/html</format>
+				<publishers>ICCC Group</publishers>
+				<title>Distance Learning and Support.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.nesc.ac.uk/esi/events/533/">
+			<metadata>
+				<language>EN</language>
+				<subject>NeSC, national e-science centre, Networks for non-Networkers 2 (NFNN2)</subject>
+				<date>2006-01-31</date>
+				<categories>Introductory Material and Support|Network Technology</categories>
+				<description>This webpage describes the National e-Science Centre's Networks for non-Networkers 2 (NFNN2) workshop that took place 20 - 21 June 2005. Networks for Non-Networkers 2 (NFNN2) was a one and a half day workshop for people working at the technical level in high-bandwidth dependant science. It was not aimed at network researchers or networking experts, but at people trying to use the network for science.  This page contains the agenda and links to the presentations given.</description>
+				<creators>NESC</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.492202871093097</redress_difficulty>
+				<identifier>http://www.nesc.ac.uk/esi/events/533/</identifier>
+				<format>text/html</format>
+				<publishers>NESC</publishers>
+				<title>Networks for non-Networkers 2 (NFNN2) - Jun 05.</title>
+			<metadata>
+		</content>
+		<content identifier="http://tyne.dl.ac.uk/StarterKit/HTML/PKI/contents.html">
+			<metadata>
+				<language>EN</language>
+				<subject>Cryptography, Public-Key, Introduction, Internet, </subject>
+				<date>2006-02-01</date>
+				<categories>Introductory Material and Support|Security and Confidentiality</categories>
+				<description>Public-key cryptography and related standards and techniques underlie security features of many Netscape products, including signed and encrypted email, form signing, object signing, single sign-on, and the Secure Sockets Layer (SSL) protocol. This document introduces the basic concepts of public-key cryptography. The topics covered are: Internet Security Issues,
+ Encryption and Decryption, 
+Digital Signatures, 
+Certificates and Authentication,  
+Managing Certificates.</description>
+				<creators>Netscape</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.592051806491095</redress_difficulty>
+				<identifier>http://tyne.dl.ac.uk/StarterKit/HTML/PKI/contents.html</identifier>
+				<format>text/html</format>
+				<publishers>CCLRC</publishers>
+				<title>Introduction to Public-Key Cryptography</title>
+			<metadata>
+		</content>
+		<content identifier="http://www-1.ibm.com/grid/about_grid/what_is.shtml">
+			<metadata>
+				<language>EN</language>
+				<date>2005-12-23</date>
+				<categories>Introductory Material and Support|High Performance Computing|Grid and Web Services</categories>
+				<description>IBM's Explaination of Grid Computing.
+</description>
+				<creators>Various</creators>
+				<uploader>Paul Dolby</uploader>
+				<redress_difficulty>0.647939641602142</redress_difficulty>
+				<identifier>http://www-1.ibm.com/grid/about_grid/what_is.shtml</identifier>
+				<format>text/html</format>
+				<publishers>IBM</publishers>
+				<title>What is Grid Computing.</title>
+			<metadata>
+		</content>
+	</category>
+	<category name="Network Technology" description="Material related to using high-speed networks to facilitate e-Social Science">
+		<content identifier="http://www.nesc.ac.uk/talks/533/LesCottrellNFNN2.pdf">
+			<metadata>
+				<language>EN</language>
+				<subject>UNIX, network, diagnostics</subject>
+				<date>2006-02-01</date>
+				<categories>Introductory Material and Support|Network Technology</categories>
+				<description>This document provides a practical guide to debugging common network problems for the UNIX operating system. It covers commands such as ping, traceroute, PingRoute. It also looks at time series, locating bottlenecks, correlation of problems with routes, as well as case studies.</description>
+				<creators>Cottrell, Les </creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.296655398071004</redress_difficulty>
+				<identifier>http://www.nesc.ac.uk/talks/533/LesCottrellNFNN2.pdf</identifier>
+				<format>text/html</format>
+				<publishers>SLAC|NESC</publishers>
+				<title>Diagnostic Steps.</title>
+			<metadata>
+		</content>
+		<content identifier="0">
+			<metadata>
+			<metadata>
+		</content>
+		<content identifier="http://www.nesc.ac.uk/esi/events/533/">
+			<metadata>
+				<language>EN</language>
+				<subject>NeSC, national e-science centre, Networks for non-Networkers 2 (NFNN2)</subject>
+				<date>2006-01-31</date>
+				<categories>Introductory Material and Support|Network Technology</categories>
+				<description>This webpage describes the National e-Science Centre's Networks for non-Networkers 2 (NFNN2) workshop that took place 20 - 21 June 2005. Networks for Non-Networkers 2 (NFNN2) was a one and a half day workshop for people working at the technical level in high-bandwidth dependant science. It was not aimed at network researchers or networking experts, but at people trying to use the network for science.  This page contains the agenda and links to the presentations given.</description>
+				<creators>NESC</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.492202871093097</redress_difficulty>
+				<identifier>http://www.nesc.ac.uk/esi/events/533/</identifier>
+				<format>text/html</format>
+				<publishers>NESC</publishers>
+				<title>Networks for non-Networkers 2 (NFNN2) - Jun 05.</title>
+			<metadata>
+		</content>
+		<content identifier="http://www.jisc.ac.uk/index.cfm?name=pub_ibsmwireless">
+			<metadata>
+				<language>EN</language>
+				<subject>techlearn, firewall, hacking, 802.11g, signal, performance, asbestos, bandwidth, backbone, socket, flexible, infrastructure, ict, ilt, simultaneous, briefing, security, privacy, wep, wifi, wi-fi, radio, lan, wireless</subject>
+				<date>2006-01-19</date>
+				<categories>Network Technology</categories>
+				<description>A Report by JISC on Cableless networking: advantages, potential problems and recommendations.
+
+This report is aimed at senior managers who are responsible for the development of institutional strategies (ILT, ICT, learning and teaching) and want some understanding of the issues involved in providing network infrastructure on their campus including the financial and pedagogic imperatives. It is of interest to Principals and Deputy Principals in FE, Pro-Vice Chancellors for IT and Learning and Teaching in HE, Heads of Computing and IT, Heads of Information Services, Heads of Estates and those responsible for space management and the design of learning spaces.</description>
+				<creators>Reeves, Kelvin</creators>
+				<uploader>Dolby, Paul</uploader>
+				<redress_difficulty>0.567041853058781</redress_difficulty>
+				<identifier>http://www.jisc.ac.uk/index.cfm?name=pub_ibsmwireless</identifier>
+				<format>text/html</format>
+				<publishers>JISC</publishers>
+				<title>Potential Role of Wireless LANs in Education : Snr Mgt</title>
+			<metadata>
+		</content>
+	</category>
+</catalogue>

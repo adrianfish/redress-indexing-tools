@@ -1,0 +1,66 @@
+\documentclass[11pt,a4]{article}
+\usepackage{html,url}
+\usepackage{rotating}
+
+%usage for including an url address
+\newcommand{\htmllink}[1]{\htmladdnormallink{\url{#1}}{#1}}
+\newcommand{\maillink}[1]{\htmladdnormallink{\url{#1}}{mailto:#1}}
+
+\include{normal_style}
+
+\hoffset = -0.45true in
+\textwidth 6.5true in
+\textheight 9.5true in
+\oddsidemargin 0.25true in
+\evensidemargin 0.25true in
+\topmargin -0.3true in
+\headsep 0.4true in
+\parindent 0em
+\parskip 0.5em
+\def\half{\frac{1}{2}}
+
+\begin{document}
+\pagestyle{headings}
+\pagenumbering{arabic}
+    
+\begin{center}
+{\Large \bf Development Notes}
+\end{center}
+
+Admin creates worksite and uploads a catalogue file, using the catalogue upload
+tool, containing the categories of documents relevent to the worksite. The
+catalogue import tool simply passes the catalogue file to the redress service
+which then imports the categories and content from the file into the redress
+database. The trainer is then run across the newly expanded training set
+represented by the catalogue database to recreate the training set. The worksite
+admin can then supply a list of hostnames to be harvested. A worksite user can
+then search across the metadata for the worksite using the redress service.
+
+Do we need an extra field on the database to indicate the catalogue? When Sakai
+users search using the metadata tool, do they just search across the harvested
+and catalogue data for their worksite?
+
+create\_database.pl - Imports the supplied catalogue xml file into the redress
+database, creates a training set and then harvests the supplied urls. When the
+creation has finished, sends an email to the supplied address to signal that
+the searcher is now usable. The categories are associated with the catalogue
+name (which could be the Sakai worksite name).
+
+search.pl - Displays a list of the categories associated with the supplied
+worksite id (key)
+
+\begin{enumerate}
+\item User logs into Sakai and enters worksite.
+\item User clicks on audio tool, snoop applet starts and transmits the client
+machine's IP address to service. Service stores IP address against user
+ID.
+\item User selects another worksite user that they wish to talk to.
+\item Service contacts Narada broker and sets up meeting using previously
+captured IP addresses.
+\item JSP page configures the audio applet params with the
+narada ip address, port and the meeting topic number.
+\end{enumerate}
+
+\hline
+
+\end{document}

@@ -1,0 +1,573 @@
+Loading stopwords ...
+ at ./trainer.pl line 28
+Self: Redress::HtmlParser
+ at ./trainer.pl line 130
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.450574267851052 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.551450409287001 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Self: Redress::HtmlParser
+ at ./trainer.pl line 130
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.559701622279412 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.505591793733032 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::PdfParser::get_text()
+ at ./trainer.pl line 157
+Skipping crap category: Agenda Setting Workshops ...
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.502406617058824 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.581575012881775 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Self: Redress::HtmlParser
+ at ./trainer.pl line 130
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.493343580098039 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.589151504745859 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.541404865086367 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.534693863703665 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.584343114944904 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.577689642234921 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.66660128093774 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Self: Redress::HtmlParser
+ at ./trainer.pl line 130
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.602673005723213 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::PdfParser::get_text()
+ at ./trainer.pl line 157
+Skipping crap category: Examples from e-Social Science Projects ...
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.623566552022891 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.622322075581805 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.621170522783505 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.617772151605157 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.614159489671256 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.610781991287458 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.607619935933795 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.604655719992619 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.597331192595881 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.611371812347826 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.608422254824625 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.618254996764786 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.607550450278906 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.607051740957478 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.598856846321151 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Exiting eval via next at ./trainer.pl line 176.
+Exiting eval via next at ./trainer.pl line 176.
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.594852258768258 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.591553496509112 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::MSWordParser::get_text()
+ at ./trainer.pl line 157
+Skipping crap category: Agenda Setting Workshops ...
+Skipping crap category: Agenda Setting Workshops ...
+Skipping crap category: Introductory Material and Support ...
+Skipping crap category: Introductory Material and Support ...
+Skipping crap category: Introductory Material and Support ...
+Skipping crap category: Introductory Material and Support ...
+Skipping crap category: Introductory Material and Support ...
+Skipping crap category: Introductory Material and Support ...
+Content Type: application/vnd.ms-powerpoint not recognised. Skipping http://tyne.dl.ac.uk/ReDRESS/CQeSSR2.ppt ...
+Content Type: application/vnd.ms-powerpoint not recognised. Skipping http://tyne.dl.ac.uk/ReDRESS/WebServices/JoyOfWebServices.ppt ...
+Processing "/tmp/test.doc": 670 bytes to much, done.
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.591478930840029 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.58304075904493 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.583922109356352 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.585417957766267 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Exiting eval via next at ./trainer.pl line 176.
+Exiting eval via next at ./trainer.pl line 176.
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.587700181308613 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Self: Redress::HtmlParser
+ at ./trainer.pl line 130
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.6666 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.6666 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::PdfParser::get_text()
+ at ./trainer.pl line 157
+Skipping crap category: Examples from e-Social Science Projects ...
+Skipping crap category: Examples from e-Social Science Projects ...
+Content Type: application/vnd.ms-powerpoint not recognised. Skipping http://dsg.port.ac.uk/events/workshops/VRE05/talks/Matthew%20J.%20Dovey.ppt ...
+Content Type: application/vnd.ms-powerpoint not recognised. Skipping http://dsg.port.ac.uk/events/workshops/VRE05/talks/Xiaobo%20Yang.ppt ...
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.6666 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.6666 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.6666 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.6666 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.662085144615385 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.6666 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.634343170700086 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.633292114400972 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Exiting eval via next at ./trainer.pl line 176.
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.612523240935595 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Self: Redress::HtmlParser
+ at ./trainer.pl line 130
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.567041853058781 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.543381697419206 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::PdfParser::get_text()
+ at ./trainer.pl line 157
+Skipping crap category: Agenda Setting Workshops ...
+Skipping crap category: Introductory Material and Support ...
+Skipping crap category: Introductory Material and Support ...
+Skipping crap category: Introductory Material and Support ...
+Skipping crap category: Introductory Material and Support ...
+Skipping crap category: Introductory Material and Support ...
+Content Type: application/vnd.ms-powerpoint not recognised. Skipping http://tyne.dl.ac.uk/ReDRESS/CQeSSR2.ppt ...
+Skipping crap category: Introductory Material and Support ...
+Skipping crap category: Motivation and Background ...
+Skipping crap category: Introductory Material and Support ...
+Self: Redress::HtmlParser
+ at ./trainer.pl line 130
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.520283170212282 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.51096284869726 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.508205059615113 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.505802429441464 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.503709298460306 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.501887188735634 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.500303455331782 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.498930230127413 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.497743586771849 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.496722874600428 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.49585018293878 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.50463045528674 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Exiting eval via next at ./trainer.pl line 176.
+Exiting eval via next at ./trainer.pl line 176.
+Exiting eval via next at ./trainer.pl line 176.
+Self: Redress::HtmlParser
+ at ./trainer.pl line 130
+Redress::MSWordParser::get_text()
+ at ./trainer.pl line 157
+Skipping crap category: Introductory Material and Support ...
+Content Type: application/vnd.ms-powerpoint not recognised. Skipping http://tyne.dl.ac.uk/ReDRESS/Portals/Introduction%20to%20Grid%20Portals.ppt ...
+Content Type: application/vnd.ms-powerpoint not recognised. Skipping http://dsg.port.ac.uk/events/workshops/VRE05/talks/Matthew%20J.%20Dovey.ppt ...
+Content Type: application/vnd.ms-powerpoint not recognised. Skipping http://dsg.port.ac.uk/events/workshops/VRE05/talks/Xiaobo%20Yang.ppt ...
+Processing "/tmp/test.doc": 670 bytes to much, done.
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.592051806491095 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.561386956938805 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::PdfParser::get_text()
+ at ./trainer.pl line 157
+Skipping crap category: Introductory Material and Support ...
+Skipping crap category: Introductory Material and Support ...
+Self: Redress::HtmlParser
+ at ./trainer.pl line 130
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.621761990046174 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.6166229982 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.606191186096082 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.595245957046639 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.586585984715704 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.579643326653418 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.57402096906197 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.569433169855568 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.565669147792897 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.562570112063354 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.545759735769942 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::MSWordParser::get_text()
+ at ./trainer.pl line 157
+Skipping crap category: Introductory Material and Support ...
+Processing "/tmp/test.doc": 239 bytes to much, done.
+Self: Redress::HtmlParser
+ at ./trainer.pl line 130
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.48954021973131 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.542487578617286 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::PdfParser::get_text()
+ at ./trainer.pl line 157
+Skipping crap category: Agenda Setting Workshops ...
+Skipping crap category: Social Shaping ...
+Redress::PdfParser::get_text()
+ at ./trainer.pl line 157
+Redress::PdfParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+Redress Difficulty: 0.539055868916432 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Redress::HtmlParser::get_text()
+ at ./trainer.pl line 157
+Redress::HtmlParser::parse called at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+No name attribute for <meta> tag. Skipping meta tag ... at ./trainer.pl line 157
+Redress Difficulty: 0.537904659036106 at ./trainer.pl line 157
+Redress::HtmlParser::parse finished at ./trainer.pl line 157
+Self: Redress::HtmlParser
+ at ./trainer.pl line 130
+Redress::PdfParser::get_text()
+ at ./trainer.pl line 157
+Skipping crap category: UK e-Science Programme ...
+Exiting eval via next at ./trainer.pl line 176.
+Content Type: application/x-gzip not recognised. Skipping http://www.ukhec.ac.uk/publications/reports/VR_Briefing.ps.gz ...
+Creating knowledge set ...
+Training ...
+Best Category: Grid and Web Services
+Saving categorizer ...

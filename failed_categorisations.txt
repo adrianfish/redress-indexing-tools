@@ -1,0 +1,31 @@
+FAILURE on http://www.enacts.org/hpcroadmap.pdf: Catalogue Category: High Performance Computing. Classified as: 
+FAILURE on http://redress.lancs.ac.uk/asw/6thapril/jennifer/asw.html: Catalogue Category: High Performance Computing. Classified as: Portals and Related Technology
+FAILURE on http://www.ukhec.ac.uk/publications/reports/numlib.pdf: Catalogue Category: High Performance Computing. Classified as: 
+FAILURE on http://www.enacts.org/datamanagement.pdf: Catalogue Category: Data Management. Classified as: 
+FAILURE on http://redress.lancs.ac.uk/document-pool/WhatIsOGSADAI3.pdf: Catalogue Category: Data Management. Classified as: 
+FAILURE on http://tyne.dl.ac.uk/ReDRESS/Portals/portals: Catalogue Category: Portals and Related Technology. Classified as: Semantics, Knowledge and Information Management
+FAILURE on http://tyne.dl.ac.uk/Sakai/Tools/index.shtml: Catalogue Category: Portals and Related Technology. Classified as: Databases|Semantics, Knowledge and Information Management
+FAILURE on http://www.ukhec.ac.uk/publications/reports/guienv.pdf: Catalogue Category: Visualisation. Classified as: 
+FAILURE on http://www.ukhec.ac.uk/publications/guides/fortran95.pdf: Catalogue Category: Software Development. Classified as: 
+FAILURE on http://www.ukhec.ac.uk/publications/reports/estimation.pdf: Catalogue Category: Software Development. Classified as: 
+FAILURE on http://www.ukhec.ac.uk/publications/reports/softtools.pdf: Catalogue Category: Software Development. Classified as: 
+FAILURE on http://www.enacts.org/softwareefficiency.pdf: Catalogue Category: Software Development. Classified as: 
+FAILURE on http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A/session1imp.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk/resources/Tony_Hey/originofgridcern2003/session1imp.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk/asw/6thapril/roballan/talk2/talk2.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A_part2/session3imp.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A_part3/session4imp.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology
+FAILURE on http://tyne.dl.ac.uk/ReDRESS/Grid/ncess_ahm_allan_pickles.pdf: Catalogue Category: Grid and Web Services. Classified as: 
+FAILURE on http://redress.lancs.ac.uk/asw/6thapril/roballan/talk1/talk1.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk/resources/Tony_Hey/TheFutureoftheGrid-e-Sciencetoe-Business/session5imp.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology
+FAILURE on http://eprints.ecs.soton.ac.uk/7286/01/RoughGuideToGridSecurityV1_1a.pdf: Catalogue Category: Security and Confidentiality. Classified as: 
+FAILURE on http://redress.lancs.ac.uk//resources/Paul%20Watry/Cheshire%20Framework/Cheshire-Framework.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk/resources/Rob%20Crouchley/Information%20Workshop%20Intro/Information-Workshop-Intro.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk/resources/Phil%20Couch/Information%20Management%20Strategies%20for%20Computational%20Chemistry/Information-Management-Strategies-for-Computational-Chemistry.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk/resources/Andy%20Powell/JISC%20Information%20Environment/session9.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk//resources/Adrian%20Fish/Learning%20Ladders/Learning-Ladders.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk//resources/Patrick%20Carmichael/Managing%20information%20with%20D-Space%20and%20VREs/Managing-information-with-D-Space-and-VREs.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk/resources/Angela Abell/Knowledge Management Roadmap/Knowledge-Management-Roadmap.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk//resources/Khurshid Ahmad/The quality of social interaction/The-quality-of-social-interaction.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology
+FAILURE on http://redress.lancs.ac.uk/resources/Lee Gillam/Metadata Terminology and Ontology/Metadata-Terminology-and-Ontology.html: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Portals and Related Technology
+FAILURE on http://www.nesc.ac.uk/talks/533/LesCottrellNFNN2.pdf: Catalogue Category: Network Technology. Classified as: 

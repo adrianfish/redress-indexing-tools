@@ -1,0 +1,31 @@
+FAILURE on http://www-1.ibm.com/grid/about_grid/faq.shtml: Catalogue Category: High Performance Computing. Classified as: Grid and Web Services
+FAILURE on http://www.enacts.org/hpcroadmap.pdf: Catalogue Category: High Performance Computing. Classified as: Grid and Web Services
+FAILURE on http://www-1.ibm.com/grid/about_grid/benefits.shtml: Catalogue Category: High Performance Computing. Classified as: Grid and Web Services
+FAILURE on http://www-1.ibm.com/grid/about_grid/ibm_grid/index.shtml: Catalogue Category: High Performance Computing. Classified as: Grid and Web Services
+FAILURE on http://www-1.ibm.com/grid/about_grid/index.shtml: Catalogue Category: High Performance Computing. Classified as: Grid and Web Services
+FAILURE on http://redress.lancs.ac.uk/asw/6thapril/jennifer/asw.html: Catalogue Category: High Performance Computing. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+FAILURE on http://www-128.ibm.com/developerworks/grid/library/gr-gt4mds/: Catalogue Category: High Performance Computing. Classified as: Grid and Web Services
+FAILURE on http://tyne.dl.ac.uk/ReDRESS/Grid/unit1.html: Catalogue Category: High Performance Computing. Classified as: Grid and Web Services
+FAILURE on http://www-1.ibm.com/grid/about_grid/what_is.shtml: Catalogue Category: High Performance Computing. Classified as: Grid and Web Services
+FAILURE on http://tyne.dl.ac.uk/ReDRESS/tools_survey/tools_doc: Catalogue Category: High Performance Computing. Classified as: Grid and Web Services
+FAILURE on http://www.enacts.org/datamanagement.pdf: Catalogue Category: Data Management. Classified as: Grid and Web Services
+FAILURE on http://tyne.dl.ac.uk/ReDRESS/Grid/unit1.html: Catalogue Category: Data Management. Classified as: Grid and Web Services
+FAILURE on http://tyne.dl.ac.uk/ReDRESS/Portals/portals: Catalogue Category: Portals and Related Technology. Classified as: Grid and Web Services
+FAILURE on http://tyne.dl.ac.uk/ReDRESS/Technology/index.shtml: Catalogue Category: Portals and Related Technology. Classified as: Grid and Web Services
+FAILURE on http://tyne.dl.ac.uk/Sakai/Tools/index.shtml: Catalogue Category: Portals and Related Technology. Classified as: Grid and Web Services
+FAILURE on http://www.ukhec.ac.uk/publications/guides/fortran95.pdf: Catalogue Category: Software Development. Classified as: Visualisation
+FAILURE on http://tyne.dl.ac.uk/ReDRESS/CodeDev/codedev_doc: Catalogue Category: Software Development. Classified as: Visualisation
+FAILURE on http://tyne.dl.ac.uk/ReDRESS/SoftDev/index.shtml: Catalogue Category: Software Development. Classified as: Grid and Web Services
+FAILURE on http://www-128.ibm.com/developerworks/grid/library/gr-gt4mds/: Catalogue Category: Software Development. Classified as: Grid and Web Services
+FAILURE on http://www.enacts.org/softwareefficiency.pdf: Catalogue Category: Software Development. Classified as: Grid and Web Services
+FAILURE on http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A/session1imp.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+FAILURE on http://redress.lancs.ac.uk/resources/Tony_Hey/originofgridcern2003/session1imp.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+FAILURE on http://redress.lancs.ac.uk/asw/6thapril/roballan/talk2/talk2.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+FAILURE on http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A_part2/session3imp.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+FAILURE on http://redress.lancs.ac.uk/resources/Geoffrey_Fox/Grid_Tech_A_part3/session4imp.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+FAILURE on http://redress.lancs.ac.uk/asw/6thapril/roballan/talk1/talk1.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+FAILURE on http://redress.lancs.ac.uk/resources/Tony_Hey/TheFutureoftheGrid-e-Sciencetoe-Business/session5imp.html: Catalogue Category: Grid and Web Services. Classified as: Portals and Related Technology|Semantics, Knowledge and Information Management
+FAILURE on http://www.ncess.ac.uk/resources/fasttrack/index.html: Catalogue Category: Collaboration. Classified as: Grid and Web Services
+FAILURE on http://www.aktors.org/coakting: Catalogue Category: Collaboration. Classified as: Grid and Web Services
+FAILURE on http://www-128.ibm.com/developerworks/grid/library/gr-feddata/: Catalogue Category: Databases. Classified as: Data Management
+FAILURE on http://www.aktors.org/coakting: Catalogue Category: Semantics, Knowledge and Information Management. Classified as: Grid and Web Services
